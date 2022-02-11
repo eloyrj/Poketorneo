@@ -1,8 +1,8 @@
 import mmap
-f1 = open("comprobacion de roms\prueba.bas")
+f1 = open("prueba.bas")
 salida = open("salida.txt","w",encoding="utf-8")
 
-f2 = open("comprobacion de roms\TRAMPA.gba.log","r",encoding='utf-8')
+f2 = open("TRAMPA.gba.log","r",encoding='utf-8')
 with f2 as myfile:
     total_lines = sum(1 for line in myfile)
 f2.close()
@@ -16,7 +16,7 @@ for palabra in sete:
     PosicionTexto = -1
     NumeroLinea = 0
 
-    f2 = open("comprobacion de roms\TRAMPA.gba.log","r",encoding='utf-8')
+    f2 = open("TRAMPA.gba.log","r",encoding='utf-8')
     
     lines = f2.readlines()[1682:total_lines]
     encontrado= False
@@ -33,7 +33,7 @@ for palabra in sete:
     f2.close()
     if(encontrado):
 
-        f2 = open("comprobacion de roms\TRAMPA.gba.log","r",encoding='utf-8')
+        f2 = open("TRAMPA.gba.log","r",encoding='utf-8')
         lines = f2.readlines()[412:797]
         for line in lines:
             NumeroLinea = NumeroLinea + 1
@@ -46,7 +46,7 @@ for palabra in sete:
         f2.close()
 
 
-        f2 = open("comprobacion de roms\TRAMPA.gba.log","r",encoding="utf-8")
+        f2 = open("TRAMPA.gba.log","r",encoding="utf-8")
         lines = f2.readlines()[3:388]
         for line in lines:       
             NumeroLinea = NumeroLinea + 1

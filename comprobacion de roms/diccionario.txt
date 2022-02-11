@@ -1,0 +1,723 @@
+Destructor:Pound 
+Golpe Kárate:Karate Chop 
+Doble Bofetón:Double Slap 
+Puño Cometa:Comet Punch 
+Megapuño:Mega Punch 
+Día de Pago:Pay Day 
+Puño Fuego:Fire Punch 
+Puño Hielo:Ice Punch 
+Puño Trueno:Thunder Punch 
+Arañazo:Scratch 
+Agarre:Vice Grip 
+Guillotina:Guillotine 
+Viento Cortante:Razor Wind 
+Danza Espada:Swords Dance 
+Corte:Cut 
+Tornado:Gust 
+Ataque Ala:Wing Attack 
+Remolino:Whirlwind 
+Vuelo:Fly 
+Atadura:Bind 
+Atizar:Slam 
+Látigo Cepa:Vine Whip 
+Pisotón:Stomp 
+Doble Patada:Double Kick 
+Megapatada:Mega Kick 
+Patada Salto:Jump Kick 
+Patada Giro:Rolling Kick 
+Ataque Arena:Sand Attack 
+Golpe Cabeza:Headbutt 
+Cornada:Horn Attack 
+Ataque Furia:Fury Attack 
+Perforador:Horn Drill 
+Placaje:Tackle 
+Golpe Cuerpo:Body Slam 
+Constricción:Wrap 
+Derribo:Take Down 
+Golpe:Thrash 
+Doble Filo:Double-Edge 
+Látigo:Tail Whip 
+Picotazo Ven:Poison Sting 
+Doble Ataque:Twineedle 
+Pin Misil:Pin Missile 
+Malicioso:Leer 
+Mordisco:Bite 
+Gruñido:Growl 
+Rugido:Roar 
+Canto:Sing 
+Supersónico:Supersonic 
+Bomba Sónica:Sonic Boom 
+Anulación:Disable 
+Ácido:Acid 
+Ascuas:Ember 
+Lanzallamas:Flamethrower 
+Neblina:Mist 
+Pistola Agua:Water Gun 
+Hidrobomba:Hydro Pump 
+Surf:Surf 
+Rayo Hielo:Ice Beam 
+Ventisca:Blizzard 
+Psicorrayo:Psybeam 
+Rayo Burbuja:Bubble Beam 
+Rayo Aurora:Aurora Beam 
+Hiperrayo:Hyper Beam 
+Picotazo:Peck 
+Pico Taladro:Drill Peck 
+Sumisión:Submission 
+Patada Baja:Low Kick 
+Contraataque:Counter 
+Mov. Sísmico:Seismic Toss 
+Fuerza:Strength 
+Absorber:Absorb 
+Megaagotar:Mega Drain 
+Drenadoras:Leech Seed 
+Desarrollo:Growth 
+Hoja Afilada:Razor Leaf 
+Rayo Solar:Solar Beam 
+Polvo Veneno:Poison Powder 
+Paralizador:Stun Spore 
+Somnífero:Sleep Powder 
+Danza Pétalo:Petal Dance 
+Disparo Demora:String Shot 
+Furia Dragón:Dragon Rage 
+Giro Fuego:Fire Spin 
+Impactrueno:Thunder Shock 
+Rayo:Thunderbolt 
+Onda Trueno:Thunder Wave 
+Trueno:Thunder 
+Lanzarrocas:Rock Throw 
+Terremoto:Earthquake 
+Fisura:Fissure 
+Excavar:Dig 
+Tóxico:Toxic 
+Confusión:Confusion 
+Psíquico:Psychic 
+Hipnosis:Hypnosis 
+Meditación:Meditate 
+Agilidad:Agility 
+Ataque Rápido:Quick Attack 
+Furia:Rage 
+Teletransporte:Teleport 
+Tinieblas:Night Shade 
+Mimético:Mimic 
+Chirrido:Screech 
+Doble Equipo:Double Team 
+Recuperación:Recover 
+Fortaleza:Harden 
+Reducción:Minimize 
+Pantalla de Humo:Smokescreen 
+Rayo Confuso:Confuse Ray 
+Refugio:Withdraw 
+Rizo Defensa:Defense Curl 
+Barrera:Barrier 
+Pantalla de Luz:Light Screen 
+Niebla:Haze 
+Reflejo:Reflect 
+Foco Energía:Focus Energy 
+Venganza:Bide 
+Metrónomo:Metronome 
+Mov. Espejo:Mirror Move 
+Autodestrucción:Self-Destruct 
+Bomba Huevo:Egg Bomb 
+Lengüetazo:Lick 
+Polución:Smog 
+Residuos:Sludge 
+Hueso Palo:Bone Club 
+Llamarada:Fire Blast 
+Cascada:Waterfall 
+Tenaza:Clamp 
+Rapidez:Swift 
+Cabezazo:Skull Bash 
+Clavo Cañón:Spike Cannon 
+Restricción:Constrict 
+Amnesia:Amnesia 
+Kinético:Kinesis 
+Amortiguador:Soft-Boiled 
+Pat. Salto Alta:High Jump Kick 
+Deslumbrar:Glare 
+Come Sueños:Dream Eater 
+Gas Venenoso:Poison Gas 
+Presa:Barrage 
+Chupavidas:Leech Life 
+Beso Amoroso:Lovely Kiss 
+Ataque Aéreo:Sky Attack 
+Transformación:Transform 
+Burbuja:Bubble 
+Puño Mareo:Dizzy Punch 
+Espora:Spore 
+Destello:Flash 
+Psicoonda:Psywave 
+Salpicadura:Splash 
+Armadura Ácida:Acid Armor 
+Martillazo:Crabhammer 
+Explosión:Explosion 
+Golpes Furia:Fury Swipes 
+Huesomerang:Bonemerang 
+Descanso:Rest 
+Avalancha:Rock Slide 
+Hipercolmillo:Hyper Fang 
+Afilar:Sharpen 
+Conversión:Conversion 
+Triataque:Tri Attack 
+Superdiente:Super Fang 
+Cuchillada:Slash 
+Sustituto:Substitute 
+Forcejeo:Struggle 
+Esquema:Sketch 
+Triple Patada:Triple Kick 
+Ladrón:Thief 
+Telaraña:Spider Web 
+Telépata:Mind Reader 
+Pesadilla:Nightmare 
+Rueda Fuego:Flame Wheel 
+Ronquido:Snore 
+Maldición:Curse 
+Azote:Flail 
+Conversión2:Conversion2 
+Aerochorro:Aeroblast 
+Esporagodón:Cotton Spore 
+Inversión:Reversal 
+Rencor:Spite 
+Nieve Polvo:Powder Snow 
+Protección:Protect 
+Ultrapuño:Mach Punch 
+Cara Susto:Scary Face 
+Finta:Feint Attack 
+Beso Dulce:Sweet Kiss 
+Tambor:Belly Drum 
+Bomba Lodo:Sludge Bomb 
+Bofetón Lodo:Mud-Slap 
+Pulpocañón:Octazooka 
+Púas:Spikes 
+Electrocañón:Zap Cannon 
+Profecía:Foresight 
+Mismo Destino:Destiny Bond 
+Canto Mortal:Perish Song 
+Viento Hielo:Icy Wind 
+Detección:Detect 
+Ataque Óseo:Bone Rush 
+Fijar Blanco:Lock-On 
+Enfado:Outrage 
+Tormenta Arena:Sandstorm 
+Gigadrenado:Giga Drain 
+Aguante:Endure 
+Encanto:Charm 
+Desenrollar:Rollout 
+Falsotortazo:False Swipe 
+Contoneo:Swagger 
+Batido:Milk Drink 
+Chispa:Spark 
+Corte Furia:Fury Cutter 
+Ala de Acero:Steel Wing 
+Mal de Ojo:Mean Look 
+Atracción:Attract 
+Sonámbulo:Sleep Talk 
+Campana Cura:Heal Bell 
+Retribución:Return 
+Presente:Present 
+Frustración:Frustration 
+Velo Sagrado:Safeguard 
+Divide Dolor:Pain Split 
+Fuego Sagrado:Sacred Fire 
+Magnitud:Magnitude 
+Puño Dinámico:Dynamic Punch 
+Megacuerno:Megahorn 
+Dragoaliento:Dragon Breath 
+Relevo:Baton Pass 
+Otra Vez:Encore 
+Persecución:Pursuit 
+Giro Rápido:Rapid Spin 
+Dulce Aroma:Sweet Scent 
+Cola Férrea:Iron Tail 
+Garra Metal:Metal Claw 
+Tiro Vital:Vital Throw 
+Sol Matinal:Morning Sun 
+Síntesis:Synthesis 
+Luz Lunar:Moonlight 
+Poder Oculto:Hidden Power 
+Tajo Cruzado:Cross Chop 
+Ciclón:Twister 
+Danza Lluvia:Rain Dance 
+Día Soleado:Sunny Day 
+Triturar:Crunch 
+Manto Espejo:Mirror Coat 
+Más Psique:Psych Up 
+Veloc. Extrema:Extreme Speed 
+Poder Pasado:Ancient Power 
+Bola Sombra:Shadow Ball 
+Premonición:Future Sight 
+Golpe Roca:Rock Smash 
+Torbellino:Whirlpool 
+Paliza:Beat Up 
+Sorpresa:Fake Out 
+Alboroto:Uproar 
+Reserva:Stockpile 
+Escupir:Spit Up 
+Tragar:Swallow 
+Onda Ígnea:Heat Wave 
+Granizo:Hail 
+Tormento:Torment 
+Camelo:Flatter 
+Fuego Fatuo:Will-O-Wisp 
+Legado:Memento 
+Imagen:Facade 
+Puño Certero:Focus Punch 
+Estímulo:Smelling Salts 
+Señuelo:Follow Me 
+Adaptación:Nature Power 
+Carga:Charge 
+Mofa:Taunt 
+Refuerzo:Helping Hand 
+Truco:Trick 
+Imitación:Role Play 
+Deseo:Wish 
+Ayuda:Assist 
+Arraigo:Ingrain 
+Fuerza Bruta:Superpower 
+Capa Mágica:Magic Coat 
+Reciclaje:Recycle 
+Desquite:Revenge 
+Demolición:Brick Break 
+Bostezo:Yawn 
+Desarme:Knock Off 
+Esfuerzo:Endeavor 
+Estallido:Eruption 
+Intercambio:Skill Swap 
+Cerca:Imprison 
+Alivio:Refresh 
+Rabia:Grudge 
+Robo:Snatch 
+Daño Secreto:Secret Power 
+Buceo:Dive 
+Empujón:Arm Thrust 
+Camuflaje:Camouflage 
+Ráfaga:Tail Glow 
+Resplandor:Luster Purge 
+Bola Neblina:Mist Ball 
+Danza Pluma:Feather Dance 
+Danza Caos:Teeter Dance 
+Patada Ígnea:Blaze Kick 
+Chapoteo Lodo:Mud Sport 
+Bola Hielo:Ice Ball 
+Brazo Pincho:Needle Arm 
+Relajo:Slack Off 
+Vozarrón:Hyper Voice 
+Colmillo Ven:Poison Fang 
+Garra Brutal:Crush Claw 
+Anillo Ígneo:Blast Burn 
+Hidrocañón:Hydro Cannon 
+Puño Meteoro:Meteor Mash 
+Impresionar:Astonish 
+Meteorobola:Weather Ball 
+Aromaterapia:Aromatherapy 
+Llanto Falso:Fake Tears 
+Aire Afilado:Air Cutter 
+Sofoco:Overheat 
+Rastreo:Odor Sleuth 
+Tumba Rocas:Rock Tomb 
+Viento Plata:Silver Wind 
+Eco Metálico:Metal Sound 
+Silbato:Grass Whistle 
+Cosquillas:Tickle 
+Masa Cósmica:Cosmic Power 
+Salpicar:Water Spout 
+Doble Rayo:Signal Beam 
+Puño Sombra:Shadow Punch 
+Paranormal:Extrasensory 
+Gancho Alto:Sky Uppercut 
+Bucle Arena:Sand Tomb 
+Frío Polar:Sheer Cold 
+Agua Lodosa:Muddy Water 
+Recurrente:Bullet Seed 
+Golpe Aéreo:Aerial Ace 
+Carámbano:Icicle Spear 
+Defensa Férrea:Iron Defense 
+Bloqueo:Block 
+Aullido:Howl 
+Garra Dragón:Dragon Claw 
+Planta Feroz:Frenzy Plant 
+Corpulencia:Bulk Up 
+Bote:Bounce 
+Disparo Lodo:Mud Shot 
+Cola Veneno:Poison Tail 
+Antojo:Covet 
+Placaje Eléc:Volt Tackle 
+Hoja Mágica:Magical Leaf 
+Hidrochorro:Water Sport 
+Paz Mental:Calm Mind 
+Hoja Aguda:Leaf Blade 
+Danza Dragón:Dragon Dance 
+Pedrada:Rock Blast 
+Onda Voltio:Shock Wave 
+Hidropulso:Water Pulse 
+Deseo Oculto:Doom Desire 
+Psicoataque:Psycho Boost 
+Respiro:Roost 
+Gravedad:Gravity 
+Gran Ojo:Miracle Eye 
+Espabila:Wake-Up Slap 
+Machada:Hammer Arm 
+Giro Bola:Gyro Ball 
+Deseo Cura:Healing Wish 
+Salmuera:Brine 
+Don Natural:Natural Gift 
+Amago:Feint 
+Picoteo:Pluck 
+Viento Afín:Tailwind 
+Acupresión:Acupressure 
+Represión Metal:Metal Burst 
+Ida y Vuelta:U-turn 
+A Bocajarro:Close Combat 
+Vendetta:Payback 
+Buena Baza:Assurance 
+Embargo:Embargo 
+Lanzamiento:Fling 
+Psicocambio:Psycho Shift 
+As Oculto:Trump Card 
+Anticura:Heal Block 
+Estrujón:Wring Out 
+Truco Fuerza:Power Trick 
+Bilis:Gastro Acid 
+Conjuro:Lucky Chant 
+Yo Primero:Me First 
+Copión:Copycat 
+Cambia Fuerza:Power Swap 
+Cambia Defensa:Guard Swap 
+Castigo:Punishment 
+Última Baza:Last Resort 
+Abatidoras:Worry Seed 
+Golpe Bajo:Sucker Punch 
+Púas Tóxicas:Toxic Spikes 
+Cambia Almas:Heart Swap 
+Acua Aro:Aqua Ring 
+Levitón:Magnet Rise 
+Envite Ígneo:Flare Blitz 
+Palmeo:Force Palm 
+Esfera Aural:Aura Sphere 
+Pulimento:Rock Polish 
+Puya Nociva:Poison Jab 
+Pulso Umbrío:Dark Pulse 
+Tajo Umbrío:Night Slash 
+Acua Cola:Aqua Tail 
+Bomba Germen:Seed Bomb 
+Tajo Aéreo:Air Slash 
+Tijera X:X-Scissor 
+Zumbido:Bug Buzz 
+Pulso Dragón:Dragon Pulse 
+Carga Dragón:Dragon Rush 
+Joya de Luz:Power Gem 
+Puño Drenaje:Drain Punch 
+Onda Vacío:Vacuum Wave 
+Onda Certera:Focus Blast 
+Energibola:Energy Ball 
+Pájaro Osado:Brave Bird 
+Tierra Viva:Earth Power 
+Trapicheo:Switcheroo 
+Giga Impacto:Giga Impact 
+Maquinación:Nasty Plot 
+Puño Bala:Bullet Punch 
+Alud:Avalanche 
+Canto Helado:Ice Shard 
+Garra Umbría:Shadow Claw 
+Colmillo Rayo:Thunder Fang 
+Colmillo Hielo:Ice Fang 
+Colmillo Ígneo:Fire Fang 
+Sombra Vil:Shadow Sneak 
+Bomba Fango:Mud Bomb 
+Psicocorte:Psycho Cut 
+Cabezazo Zen:Zen Headbutt 
+Disparo Espejo:Mirror Shot 
+Foco Resplandor:Flash Cannon 
+Treparrocas:Rock Climb 
+Despejar:Defog 
+Espacio Raro:Trick Room 
+Cometa Draco:Draco Meteor 
+Chispazo:Discharge 
+Humareda:Lava Plume 
+Lluevehojas:Leaf Storm 
+Latigazo:Power Whip 
+Romperrocas:Rock Wrecker 
+Veneno X:Cross Poison 
+Lanza Mugre:Gunk Shot 
+Cabeza de Hierro:Iron Head 
+Bomba Imán:Magnet Bomb 
+Roca Afilada:Stone Edge 
+Seducción:Captivate 
+Trampa Rocas:Stealth Rock 
+Hierba Lazo:Grass Knot 
+Cháchara:Chatter 
+Sentencia:Judgment 
+Picadura:Bug Bite 
+Rayo Carga:Charge Beam 
+Mazazo:Wood Hammer 
+Acua Jet:Aqua Jet 
+Al Ataque:Attack Order 
+A Defender:Defend Order 
+Auxilio:Heal Order 
+Testarazo:Head Smash 
+Doble Golpe:Double Hit 
+Distorsión:Roar of Time 
+Corte Vacío:Spacial Rend 
+Danza Lunar:Lunar Dance 
+Agarrón:Crush Grip 
+Lluvia Ígnea:Magma Storm 
+Brecha Negra:Dark Void 
+Fogonazo:Seed Flare 
+Viento Aciago:Ominous Wind 
+Golpe Umbrío:Shadow Force 
+Afilagarras:Hone Claws 
+Vastaguardia:Wide Guard 
+Isoguardia:Guard Split 
+Isofuerza:Power Split 
+Zona Extraña:Wonder Room 
+Psicocarga:Psyshock 
+Carga Tóxica:Venoshock 
+Aligerar:Autotomize 
+Polvo Ira:Rage Powder 
+Telequinesis:Telekinesis 
+Zona Mágica:Magic Room 
+Antiaéreo:Smack Down 
+Llave Corsé:Storm Throw 
+Pirotecnia:Flame Burst 
+Onda Tóxica:Sludge Wave 
+Danza Aleteo:Quiver Dance 
+Cuerpo Pesado:Heavy Slam 
+Sincrorruido:Synchronoise 
+Bola Voltio:Electro Ball 
+Anegar:Soak 
+Nitrocarga:Flame Charge 
+Enrosque:Coil 
+Puntapié:Low Sweep 
+Bomba Ácida:Acid Spray 
+Juego Sucio:Foul Play 
+Onda Simple:Simple Beam 
+Danza Amiga:Entrainment 
+Cede Paso:After You 
+Canon:Round 
+Eco Voz:Echoed Voice 
+Guardia Baja:Chip Away 
+Niebla Clara:Clear Smog 
+Poder Reserva:Stored Power 
+Anticipo:Quick Guard 
+Cambio Banda:Ally Switch 
+Escaldar:Scald 
+Rompecoraza:Shell Smash 
+Pulso Cura:Heal Pulse 
+Infortunio:Hex 
+Caída Libre:Sky Drop 
+Cambio de Marcha:Shift Gear 
+Llave Giro:Circle Throw 
+Calcinación:Incinerate 
+Último Lugar:Quash 
+Acróbata:Acrobatics 
+Clonatipo:Reflect Type 
+Represalia:Retaliate 
+Sacrificio:Final Gambit 
+Ofrenda:Bestow 
+Infierno:Inferno 
+Voto Agua:Water Pledge 
+Voto Fuego:Fire Pledge 
+Voto Planta:Grass Pledge 
+Voltiocambio:Volt Switch 
+Estoicismo:Struggle Bug 
+Terratemblor:Bulldoze 
+Vaho Gélido:Frost Breath 
+Cola Dragón:Dragon Tail 
+Avivar:Work Up 
+Electrotela:Electroweb 
+Voltio Cruel:Wild Charge 
+Taladradora:Drill Run 
+Golpe Bis:Dual Chop 
+Arrumaco:Heart Stamp 
+Asta Drenaje:Horn Leech 
+Espada Santa:Sacred Sword 
+Concha Filo:Razor Shell 
+Golpe Calor:Heat Crash 
+Ciclón de Hojas:Leaf Tornado 
+Rodillo de Púas:Steamroller 
+Rizo Algodón:Cotton Guard 
+Pulso Noche:Night Daze 
+Onda Mental:Psystrike 
+Plumerazo:Tail Slap 
+Vendaval:Hurricane 
+Ariete:Head Charge 
+Rueda Doble:Gear Grind 
+Bomba Ígnea:Searing Shot 
+Tecno Shock:Techno Blast 
+Canto Arcaico:Relic Song 
+Sable Místico:Secret Sword 
+Mundo Gélido:Glaciate 
+Ataque Fulgor:Bolt Strike 
+Llama Azul:Blue Flare 
+Danza Llama:Fiery Dance 
+Rayo Gélido:Freeze Shock 
+Llama Gélida:Ice Burn 
+Alarido:Snarl 
+Chuzos:Icicle Crash 
+V de Fuego:V-create 
+Llama Fusión:Fusion Flare 
+Rayo Fusión:Fusion Bolt 
+Plancha Voladora:Flying Press 
+Escudo Tatami:Mat Block 
+Eructo:Belch 
+Fertilizante:Rototiller 
+Red Viscosa:Sticky Web 
+Aguijón Letal:Fell Stinger 
+Golpe Fantasma:Phantom Force 
+Halloween:Trick-or-Treat 
+Rugido de Guerra:Noble Roar 
+Cortina Plasma:Ion Deluge 
+Carga Parábola:Parabolic Charge 
+Condena Silvana:Forest′s Curse 
+Tormenta Floral:Petal Blizzard 
+Liofilización:Freeze-Dry 
+Voz Cautivadora:Disarming Voice 
+Última Palabra:Parting Shot 
+Reversión:Topsy-Turvy 
+Beso Drenaje:Draining Kiss 
+Truco Defensa:Crafty Shield 
+Defensa Floral:Flower Shield 
+Campo de Hierba:Grassy Terrain 
+Campo de Niebla:Misty Terrain 
+Electrificación:Electrify 
+Carantoña:Play Rough 
+Viento Feérico:Fairy Wind 
+Fuerza Lunar:Moonblast 
+Estruendo:Boomburst 
+Cerrojo Feérico:Fairy Lock 
+Escudo Real:King′s Shield 
+Camaradería:Play Nice 
+Confidencia:Confide 
+Torm. Diamantes:Diamond Storm 
+Chorro de Vapor:Steam Eruption 
+Paso Dimensional:Hyperspace Hole 
+Shuriken de Agua:Water Shuriken 
+Llama Embrujada:Mystical Fire 
+Barrera Espinosa:Spiky Shield 
+Niebla Aromática:Aromatic Mist 
+Onda Anómala:Eerie Impulse 
+Trampa Venenosa:Venom Drench 
+Polvo Explosivo:Powder 
+Geocontrol:Geomancy 
+Aura Magnética:Magnetic Flux 
+Paga Extra:Happy Hour 
+Campo Eléctrico:Electric Terrain 
+Brillo Mágico:Dazzling Gleam 
+Celebración:Celebrate 
+Manos Juntas:Hold Hands 
+Ojitos Tiernos:Baby-Doll Eyes 
+Moflete Estático:Nuzzle 
+Clemencia:Hold Back 
+Acoso:Infestation 
+Puño Incremento:Power-Up Punch 
+Ala Mortífera:Oblivion Wing 
+Mil Flechas:Thousand Arrows 
+Mil Temblores:Thousand Waves 
+Fuerza Telúrica:Land′s Wrath 
+Luz Aniquiladora:Light of Ruin 
+Pulso Primigenio:Origin Pulse 
+Filo del Abismo:Precipice Blades 
+Ascenso Draco:Dragon Ascent 
+Cerco Dimensión:Hyperspace Fury 
+Pikavoltio Letal:Catastropika 
+Recogearena:Shore Up 
+Escaramuza:First Impression 
+Búnker:Baneful Bunker 
+Puntada Sombría:Spirit Shackle 
+Lariat Oscuro:Darkest Lariat 
+Aria Burbuja:Sparkling Aria 
+Martillo Hielo:Ice Hammer 
+Cura Floral:Floral Healing 
+Fuerza Equina:High Horsepower 
+Absorbefuerza:Strength Sap 
+Cuchilla Solar:Solar Blade 
+Follaje:Leafage 
+Foco:Spotlight 
+Hilo Venenoso:Toxic Thread 
+Aguzar:Laser Focus 
+Piñón Auxiliar:Gear Up 
+Golpe Mordaza:Throat Chop 
+Bola de Polen:Pollen Puff 
+Anclaje:Anchor Shot 
+Campo Psíquico:Psychic Terrain 
+Plancha:Lunge 
+Látigo Ígneo:Fire Lash 
+Chulería:Power Trip 
+Llama Final:Burn Up 
+Cambia Velocidad:Speed Swap 
+Cuerno Certero:Smart Strike 
+Purificación:Purify 
+Danza Despertar:Revelation Dance 
+Núcleo Castigo:Core Enforcer 
+Patada Tropical:Trop Kick 
+Mandato:Instruct 
+Pico Cañón:Beak Blast 
+Fragor Escamas:Clanging Scales 
+Martillo Dragón:Dragon Hammer 
+Giro Vil:Brutal Swing 
+Velo Aurora:Aurora Veil 
+Aluvión de Flechas Sombrías:Sinister Arrow Raid 
+Hiperplancha Oscura:Malicious Moonsault 
+Sinfonía de la Diva Marina:Oceanic Operetta 
+Cólera del Guardián:Guardian of Alola 
+Constelación Robaalmas:Soul-Stealing 7-Star Strike 
+Surfeo Galvánico:Stoked Sparksurfer 
+Arrojo Intempestivo:Pulverizing Pancake 
+Novena Potencia:Extreme Evoboost 
+Supernova Original:Genesis Supernova 
+Coraza Trampa:Shell Trap 
+Cañón Floral:Fleur Cannon 
+Psicocolmillo:Psychic Fangs 
+Pataleta:Stomping Tantrum 
+Hueso Sombrío:Shadow Bone 
+Roca Veloz:Accelerock 
+Hidroariete:Liquidation 
+Láser Prisma:Prismatic Laser 
+Robasombra:Spectral Thief 
+Meteoimpacto:Sunsteel Strike 
+Rayo Umbrío:Moongeist Beam 
+Ojos Llorosos:Tearful Look 
+Electropunzada:Zing Zap 
+Furia Natural:Nature′s Madness 
+Multiataque:Multi-Attack 
+Gigarrayo Fulminante:10,000,000 Volt Thunderbolt 
+Cabeza Sorpresa:Mind Blown 
+Puños Plasma:Plasma Fists 
+Géiser Fotónico:Photon Geyser 
+Fotodestrucción Apocalíptica:Light That Burns the Sky 
+Embestida Solar:Searing Sunraze Smash 
+Deflagración Lunar:Menacing Moonraze Maelstrom 
+Somanta Amistosa:Let’s Snuggle Forever 
+Tempestad Rocosa:Splintered Stormshards 
+Estruendo Implacable:Clangorous Soulblaze 
+Pikaturbo:Zippy Zap 
+Salpikasurf:Splishy Splash 
+Pikapicado:Floaty Fall 
+Pikatormenta:Pika Papow 
+Vapodrenaje:Bouncy Bubble 
+Joltioparálisis:Buzzy Buzz 
+Flarembestida:Sizzly Slide 
+Espeaura:Glitzy Glow 
+Umbreozona:Baddy Bad 
+Leafitobombas:Sappy Seed 
+Glaceoprisma:Freezy Frost 
+Sylveotornado:Sparkly Swirl 
+Eevimpacto:Veevee Volley 
+Ferropuño Doble:Double Iron Bash 
+Carrera Arrolladora:Breakneck Blitz 
+Ráfaga Demoledora:All-Out Pummeling 
+Picado Supersónico:Supersonic Skystrike 
+Diluvio Corrosivo:Acid Downpour 
+Barrena Telúrica:Tectonic Rage 
+Aplastamiento Gigalítico:Continental Crush 
+Guadaña Sedosa:Savage Spin-Out 
+Presa Espectral:Never-Ending Nightmare 
+Hélice Trepanadora:Corkscrew Crash 
+Hecatombe Pírica:Inferno Overdrive 
+Hidrovórtice Abisal:Hydro Vortex 
+Megatón Floral:Bloom Doom 
+Gigavoltio Destructor:Gigavolt Havoc 
+Disruptor Psíquico:Shattered Psyche 
+Crioaliento Despiadado:Subzero Slammer 
+Dracoaliento Devastador:Devastating Drake 
+Agujero Negro Aniquilador:Black Hole Eclipse 
