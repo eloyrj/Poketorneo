@@ -1,0 +1,1453 @@
+ #001 Bulbasaur Fase inicial
+ #002 Ivysaur Subir al nivel 16
+ #003 Venusaur Subir al nivel 32
+\
+
+ #004 Charmander Fase inicial
+ #005 Charmeleon Subir al nivel 16
+ #006 Charizard Subir al nivel 36
+\
+
+ #007 Squirtle Fase inicial
+ #008 Wartortle Subir al nivel 16
+ #009 Blastoise Subir al nivel 36
+\
+
+ #010 Caterpie Fase inicial
+ #011 Metapod Subir al nivel 7
+ #012 Butterfree Subir al nivel 10
+\
+
+ #013 Weedle Fase inicial
+ #014 Kakuna Subir al nivel 7
+ #015 Beedrill Subir al nivel 10
+\
+
+ #016 Pidgey Fase inicial
+ #017 Pidgeotto Subir al nivel 18
+ #018 Pidgeot Subir al nivel 36
+\
+
+ #019 Rattata Fase inicial
+ #020 Raticate Subir al nivel 20
+\
+
+ #021 Spearow Fase inicial
+ #022 Fearow Subir al nivel 20
+\
+
+ #023 Ekans Fase inicial
+ #024 Arbok Subir al nivel 22
+\
+
+ #172 Pichu Fase inicial
+ #025 Pikachu Subir nivel con 218 de Felicidad
+ #026 Raichu Usar Piedratrueno
+\
+
+ #027 Sandshrew Fase inicial
+ #028 Sandslash Subir al nivel 22
+\
+
+ #029 Nidoran Fase inicial
+ #030 Nidorina Subir al nivel 16
+ #031 Nidoqueen Usar Piedra Lunar
+ #033 Nidorino Subir al nivel 16
+ #034 Nidoking Usar Piedra Lunar
+\
+
+ #173 Cleffa Fase inicial
+ #035 Clefairy Subir nivel con 218 de Felicidad
+ #036 Clefable Usar Piedra Lunar
+\
+
+ #037 Vulpix Fase inicial
+ #038 Ninetales Usar Piedra Fuego
+\
+
+ #174 Igglybuff Fase inicial
+ #039 Jigglypuff Subir nivel con 218 de Felicidad
+ #040 Wigglytuff Usar Piedra Lunar
+\
+
+ #041 Zubat Fase inicial
+ #042 Golbat Subir al nivel 22
+ #169 Crobat Subir nivel con 218 de Felicidad
+\
+
+ #043 Oddish Fase inicial
+ #044 Gloom Subir al nivel 21
+ #045 Vileplume Usar Piedra Hoja
+ #182 Bellossom Usar Piedra Solar
+\
+
+ #046 Paras Fase inicial
+ #047 Parasect Subir al nivel 24
+\
+
+ #048 Venonat Fase inicial
+ #049 Venomoth Subir al nivel 31
+\
+
+ #050 Diglett Fase inicial
+ #051 Dugtrio Subir al nivel 26
+\
+
+ #052 Meowth Fase inicial
+ #053 Persian Subir al nivel 28
+\
+
+ #054 Psyduck Fase inicial
+ #055 Golduck Subir al nivel 33
+\
+
+ #056 Mankey Fase inicial
+ #057 Primeape Subir al nivel 28
+\
+
+ #058 Growlithe Fase inicial
+ #059 Arcanine Usar Piedra Fuego
+\
+
+ #060 Poliwag Fase inicial
+ #061 Poliwhirl Subir al nivel 25
+ #062 Poliwrath Usar Piedra Agua
+ #186 Politoed Intercambiar llevando Roca del Rey
+\
+
+ #063 Abra Fase inicial
+ #064 Kadabra Subir al nivel 16
+ #065 Alakazam Intercambiar
+\
+
+ #066 Machop Fase inicial
+ #067 Machoke Subir al nivel 28
+ #068 Machamp Intercambiar
+\
+
+ #069 Bellsprout Fase inicial
+ #070 Weepinbell Subir al nivel 21
+ #071 Victreebel Usar Piedra Hoja
+\
+
+ #072 Tentacool Fase inicial
+ #073 Tentacruel Subir al nivel 30
+\
+
+ #074 Geodude Fase inicial
+ #075 Graveler Subir al nivel 25
+ #076 Golem Intercambiar
+\
+
+ #077 Ponyta Fase inicial
+ #078 Rapidash Subir al nivel 40
+\
+
+ #079 Slowpoke Fase inicial
+ #080 Slowbro Subir al nivel 37
+ #199 Slowking Intercambiar llevando Roca del Rey
+\
+
+ #081 Magnemite Fase inicial
+ #082 Magneton Subir al nivel 30
+ #462 Magnezone Subir nivel en el Monte Corona
+\
+
+ #083 Farfetch'd Sin evolución
+\
+
+ #084 Doduo Fase inicial
+ #085 Dodrio Subir al nivel 31
+\
+
+ #086 Seel Fase inicial
+ #087 Dewgong Subir al nivel 34
+\
+
+ #088 Grimer Fase inicial
+ #089 Muk Subir al nivel 38
+\
+
+ #090 Shellder Fase inicial
+ #091 Cloyster Usar Piedra Agua
+\
+
+ #092 Gastly Fase inicial
+ #093 Haunter Subir al nivel 25
+ #094 Gengar Intercambiar
+\
+
+ #095 Onix Fase inicial
+ #208 Steelix Intercambiar llevando Rev.metálico
+\
+
+ #096 Drowzee Fase inicial
+ #097 Hypno Subir al nivel 26
+\
+
+ #098 Krabby Fase inicial
+ #099 Kingler Subir al nivel 28
+\
+
+ #100 Voltorb Fase inicial
+ #101 Electrode Subir al nivel 30
+\
+
+ #102 Exeggcute Fase inicial
+ #103 Exeggutor Usar Piedra Hoja
+\
+
+ #104 Cubone Fase inicial
+ #105 Marowak Subir al nivel 28
+\
+
+ #236 Tyrogue Fase inicial
+ #107 Hitmonchan Subir al nivel 20 Ataque < Defensa
+ #106 Hitmonlee Subir al nivel 20 Ataque > Defensa
+ #237 Hitmontop Subir al nivel 20 Ataque = Defensa
+\
+
+ #108 Lickitung Fase inicial
+ #463 Lickilicky Subir nivel conociendo Desenrollar
+\
+
+ #109 Koffing Fase inicial
+ #110 Weezing Subir al nivel 35
+\
+
+ #111 Rhyhorn Fase inicial
+ #112 Rhydon Subir al nivel 42
+ #464 Rhyperior Intercambiar llevando Protector
+\
+
+ #440 Happiny Fase inicial
+ #113 Chansey Subir nivel de día llevando Piedra Oval
+ #242 Blissey Subir nivel con 218 de Felicidad
+\
+
+ #114 Tangela Fase inicial
+ #465 Tangrowth Subir nivel conociendo Poder Pasado
+\
+
+ #115 Kangaskhan Sin evolución
+\
+
+ #116 Horsea Fase inicial
+ #117 Seadra Subir al nivel 32
+ #230 Kingdra Intercambiar llevando Escamadragón
+\
+
+ #118 Goldeen Fase inicial
+ #119 Seaking Subir al nivel 33
+\
+
+ #120 Staryu Fase inicial
+ #121 Starmie Usar Piedra Agua
+\
+
+ #439 Mime Jr. Fase inicial
+ #122 Mr. Mime Subir nivel conociendo Mimético
+\
+
+ #123 Scyther Fase inicial
+ #212 Scizor Intercambiar llevando Rev.metálico
+\
+
+ #238 Smoochum Fase inicial
+ #124 Jynx Subir al nivel 30
+\
+
+ #239 Elekid Fase inicial
+ #125 Electabuzz Subir al nivel 30
+ #466 Electivire Intercambiar llevando Electrizador
+\
+
+ #240 Magby Fase inicial
+ #126 Magmar Subir al nivel 30
+ #467 Magmortar Intercambiar llevando Magmatizador
+\
+
+ #127 Pinsir Sin evolución
+\
+
+ #128 Tauros Sin evolución
+\
+
+ #129 Magikarp Fase inicial
+ #130 Gyarados Subir al nivel 20
+\
+
+ #131 Lapras Sin evolución
+\
+
+ #132 Ditto Sin evolución
+\
+
+ #133 Eevee Fase inicial
+ #470 Leafeon Subir nivel en la Roca Musgo
+ #471 Glaceon Subir nivel en la Roca Hielo
+ #135 Jolteon Usar Piedratrueno
+ #134 Vaporeon Usar Piedra Agua
+ #136 Flareon Usar Piedra Fuego
+ #196 Espeon Subir nivel de día con 218 de Felicidad
+ #197 Umbreon Subir nivel de noche con 218 de Felicidad
+ #700 Sylveon Subir nivel con 2 corazones en el Poké Recreo con un movimiento del tipo Hada
+\
+
+ #137 Porygon Fase inicial
+ #233 Porygon2 Intercambiar llevando Mejora
+ #474 Porygon-z Intercambiar llevando Discoxtraño
+\
+
+ #138 Omanyte Fase inicial
+ #139 Omastar Subir al nivel 40
+\
+
+ #140 Kabuto Fase inicial
+ #141 Kabutops Subir al nivel 40
+\
+
+ #142 Aerodactyl Sin evolución
+\
+
+ #446 Munchlax Fase inicial
+ #143 Snorlax Subir nivel con 218 de Felicidad
+\
+
+ #144 Articuno Sin evolución
+\
+
+ #145 Zapdos Sin evolución
+\
+
+ #146 Moltres Sin evolución
+\
+
+ #147 Dratini Fase inicial
+ #148 Dragonair Subir al nivel 30
+ #149 Dragonite Subir al nivel 55
+\
+
+ #150 Mewtwo Sin evolución
+\
+
+ #151 Mew Sin evolución
+\
+
+ #152 Chikorita Fase inicial
+ #153 Bayleef Subir al nivel 16
+ #154 Meganium Subir al nivel 32
+\
+
+ #155 Cyndaquil Fase inicial
+ #156 Quilava Subir al nivel 14
+ #157 Typhlosion Subir al nivel 36
+\
+
+ #158 Totodile Fase inicial
+ #159 Croconaw Subir al nivel 18
+ #160 Feraligatr Subir al nivel 30
+\
+
+ #161 Sentret Fase inicial
+ #162 Furret Subir al nivel 15
+\
+
+ #163 Hoothoot Fase inicial
+ #164 Noctowl Subir al nivel 20
+\
+
+ #165 Ledyba Fase inicial
+ #166 Ledian Subir al nivel 18
+\
+
+ #167 Spinarak Fase inicial
+ #168 Ariados Subir al nivel 22
+\
+
+ #170 Chinchou Fase inicial
+ #171 Lanturn Subir al nivel 27
+\
+
+ #175 Togepi Fase inicial
+ #176 Togetic Subir nivel con 218 de Felicidad
+ #468 Togekiss Usar Piedra Día
+\
+
+ #177 Natu Fase inicial
+ #178 Xatu Subir al nivel 25
+\
+
+ #179 Mareep Fase inicial
+ #180 Flaaffy Subir al nivel 15
+ #181 Ampharos Subir al nivel 30
+\
+
+ #298 Azurill Fase inicial
+ #183 Marill Subir nivel con 218 de Felicidad
+ #184 Azumarill Subir al nivel 18
+\
+
+ #438 Bonsly Fase inicial
+ #185 Sudowoodo Subir nivel conociendo Mimético
+\
+
+ #187 Hoppip Fase inicial
+ #188 Skiploom Subir al nivel 18
+ #189 Jumpluff Subir al nivel 27
+\
+
+ #190 Aipom Fase inicial
+ #424 Ambipom Subir nivel conociendo Doble Golpe
+\
+
+ #191 Sunkern Fase inicial
+ #192 Sunflora Usar Piedra Solar
+\
+
+ #193 Yanma Fase inicial
+ #469 Yanmega Subir nivel conociendo Poder Pasado
+\
+
+ #194 Wooper Fase inicial
+ #195 Quagsire Subir al nivel 20
+\
+
+ #198 Murkrow Fase inicial
+ #430 Honchkrow Usar Piedra Noche
+\
+
+ #200 Misdreavus Fase inicial
+ #429 Mismagius Usar Piedra Noche
+\
+
+ #201 Unown Sin evolución
+\
+
+ #360 Wynaut Fase inicial
+ #202 Wobbuffet Subir al nivel 15
+\
+
+ #203 Girafarig Sin evolución
+\
+
+ #204 Pineco Fase inicial
+ #205 Forretress Subir al nivel 31
+\
+
+ #206 Dunsparce Sin evolución
+\
+
+ #207 Gligar Fase inicial
+ #472 Gliscor Subir nivel de noche llevando Colmillagudo
+\
+
+ #209 Snubbull Fase inicial
+ #210 Granbull Subir al nivel 23
+\
+
+ #211 Qwilfish Sin evolución
+\
+
+ #213 Shuckle Sin evolución
+\
+
+ #214 Heracross Sin evolución
+\
+
+ #215 Sneasel Fase inicial
+ #461 Weavile Subir nivel de noche llevando Garrafilada
+\
+
+ #216 Teddiursa Fase inicial
+ #217 Ursaring Subir al nivel 30
+\
+
+ #218 Slugma Fase inicial
+ #219 Magcargo Subir al nivel 38
+\
+
+ #220 Swinub Fase inicial
+ #221 Piloswine Subir al nivel 33
+ #473 Mamoswine Subir nivel conociendo Poder Pasado
+\
+
+ #222 Corsola Sin evolución
+\
+
+ #223 Remoraid Fase inicial
+ #224 Octillery Subir al nivel 25
+\
+
+ #225 Delibird Sin evolución
+\
+
+ #458 Mantyke Fase inicial
+ #226 Mantine Subir nivel llevando un Remoraid
+\
+
+ #227 Skarmory Sin evolución
+\
+
+ #228 Houndour Fase inicial
+ #229 Houndoom Subir al nivel 24
+\
+
+ #231 Phanpy Fase inicial
+ #232 Donphan Subir al nivel 25
+\
+
+ #234 Stantler Sin evolución
+\
+
+ #235 Smeargle Sin evolución
+\
+
+ #241 Miltank Sin evolución
+\
+
+ #243 Raikou Sin evolución
+\
+
+ #244 Entei Sin evolución
+\
+
+ #245 Suicune Sin evolución
+\
+
+ #246 Larvitar Fase inicial
+ #247 Pupitar Subir al nivel 30
+ #248 Tyranitar Subir al nivel 55
+\
+
+ #249 Lugia Sin evolución
+\
+
+ #250 Ho-oh Sin evolución
+\
+
+ #251 Celebi Sin evolución
+\
+
+ #252 Treecko Fase inicial
+ #253 Grovyle Subir al nivel 16
+ #254 Sceptile Subir al nivel 36
+\
+
+ #255 Torchic Fase inicial
+ #256 Combusken Subir al nivel 16
+ #257 Blaziken Subir al nivel 36
+\
+
+ #258 Mudkip Fase inicial
+ #259 Marshtomp Subir al nivel 16
+ #260 Swampert Subir al nivel 36
+\
+
+ #261 Poochyena Fase inicial
+ #262 Mightyena Subir al nivel 18
+\
+
+ #263 Zigzagoon Fase inicial
+ #264 Linoone Subir al nivel 20
+\
+
+ #265 Wurmple Fase inicial
+ #266 Silcoon Subir al nivel 7 Pw <= 4
+ #267 Beautifly Subir al nivel 10
+ #268 Cascoon Subir al nivel 7 Pw >= 4
+ #269 Dustox Subir al nivel 10
+\
+
+ #270 Lotad Fase inicial
+ #271 Lombre Subir al nivel 14
+ #272 Ludicolo Usar Piedra Agua
+\
+
+ #273 Seedot Fase inicial
+ #274 Nuzleaf Subir al nivel 14
+ #275 Shiftry Usar Piedra Hoja
+\
+
+ #276 Taillow Fase inicial
+ #277 Swellow Subir al nivel 22
+\
+
+ #278 Wingull Fase inicial
+ #279 Pelipper Subir al nivel 25
+\
+
+ #280 Ralts Fase inicial
+ #281 Kirlia Subir al nivel 20
+ #282 Gardevoir Subir al nivel 30
+ #475 Gallade Usar Piedra Alba siendo macho
+\
+
+ #283 Surskit Fase inicial
+ #284 Masquerain Subir al nivel 22
+\
+
+ #285 Shroomish Fase inicial
+ #286 Breloom Subir al nivel 23
+\
+
+ #287 Slakoth Fase inicial
+ #288 Vigoroth Subir al nivel 18
+ #289 Slaking Subir al nivel 36
+\
+
+ #290 Nincada Fase inicial
+ #291 Ninjask Subir al nivel 20
+ #292 Shedinja Subir al nivel 20 teniendo un hueco libre
+\
+
+ #292 Shedinja Sin evolución
+\
+
+ #293 Whismur Fase inicial
+ #294 Loudred Subir al nivel 20
+ #295 Exploud Subir al nivel 40
+\
+
+ #296 Makuhita Fase inicial
+ #297 Hariyama Subir al nivel 24
+\
+
+ #299 Nosepass Fase inicial
+ #476 Probopass Subir nivel en el Monte Corona
+\
+
+ #300 Skitty Fase inicial
+ #301 Delcatty Usar Piedra Lunar
+\
+
+ #302 Sableye Sin evolución
+\
+
+ #303 Mawile Sin evolución
+\
+
+ #304 Aron Fase inicial
+ #305 Lairon Subir al nivel 32
+ #306 Aggron Subir al nivel 42
+\
+
+ #307 Meditite Fase inicial
+ #308 Medicham Subir al nivel 37
+\
+
+ #309 Electrike Fase inicial
+ #310 Manectric Subir al nivel 26
+\
+
+ #311 Plusle Sin evolución
+\
+
+ #312 Minun Sin evolución
+\
+
+ #313 Volbeat Sin evolución
+\
+
+ #314 Illumise Sin evolución
+\
+
+ #406 Budew Fase inicial
+ #315 Roselia Subir nivel de día con 218 de Felicidad
+ #407 Roserade Usar Piedra Día
+\
+
+ #316 Gulpin Fase inicial
+ #317 Swalot Subir al nivel 26
+\
+
+ #318 Carvanha Fase inicial
+ #319 Sharpedo Subir al nivel 30
+\
+
+ #320 Wailmer Fase inicial
+ #321 Wailord Subir al nivel 40
+\
+
+ #322 Numel Fase inicial
+ #323 Camerupt Subir al nivel 33
+\
+
+ #324 Torkoal Sin evolución
+\
+
+ #325 Spoink Fase inicial
+ #326 Grumpig Subir al nivel 32
+\
+
+ #327 Spinda Sin evolución
+\
+
+ #328 Trapinch Fase inicial
+ #329 Vibrava Subir al nivel 35
+ #330 Flygon Subir al nivel 45
+\
+
+ #331 Cacnea Fase inicial
+ #332 Cacturne Subir al nivel 32
+\
+
+ #333 Swablu Fase inicial
+ #334 Altaria Subir al nivel 35
+\
+
+ #335 Zangoose Sin evolución
+\
+
+ #336 Seviper Sin evolución
+\
+
+ #337 Lunatone Sin evolución
+\
+
+ #338 Solrock Sin evolución
+\
+
+ #339 Barboach Fase inicial
+ #340 Whiscash Subir al nivel 30
+\
+
+ #341 Corphish Fase inicial
+ #342 Crawdaunt Subir al nivel 30
+\
+
+ #343 Baltoy Fase inicial
+ #344 Claydol Subir al nivel 36
+\
+
+ #345 Lileep Fase inicial
+ #346 Cradily Subir al nivel 40
+\
+
+ #347 Anorith Fase inicial
+ #348 Armaldo Subir al nivel 40
+\
+
+ #349 Feebas Fase inicial
+ #350 Milotic Subir nivel con Belleza máxima.
+ #350 Milotic Intercambiar llevando Escama Bella
+\
+
+ #351 Castform Sin evolución
+\
+
+ #352 Kecleon Sin evolución
+\
+
+ #353 Shuppet Fase inicial
+ #354 Banette Subir al nivel 37
+\
+
+ #355 Duskull Fase inicial
+ #356 Dusclops Subir al nivel 37
+ #477 Dusknoir Intercambiar llevando Telaterrible
+\
+
+ #357 Tropius Sin evolución
+\
+
+ #433 Chingling Fase inicial
+ #358 Chimecho Subir nivel de noche con 218 de Felicidad
+\
+
+ #359 Absol Sin evolución
+\
+
+ #361 Snorunt Fase inicial
+ #362 Glalie Subir al nivel 42
+ #478 Froslass Usar Piedra Alba siendo hembra
+\
+
+ #363 Spheal Fase inicial
+ #364 Sealeo Subir al nivel 32
+ #365 Walrein Subir al nivel 44
+\
+
+ #366 Clamperl Fase inicial
+ #367 Huntail Intercambiar llevando Diente Mar.
+ #368 Gorebyss Intercambiar llevando Escama Mar.
+\
+
+ #369 Relicanth Sin evolución
+\
+
+ #370 Luvdisc Sin evolución
+\
+
+ #371 Bagon Fase inicial
+ #372 Shelgon Subir al nivel 30
+ #373 Salamence Subir al nivel 50
+\
+
+ #374 Beldum Fase inicial
+ #375 Metang Subir al nivel 20
+ #376 Metagross Subir al nivel 45
+\
+
+ #377 Regirock Sin evolución
+\
+
+ #378 Regice Sin evolución
+\
+
+ #379 Registeel Sin evolución
+\
+
+ #380 Latias Sin evolución
+\
+
+ #381 Latios Sin evolución
+\
+
+ #382 Kyogre Sin evolución
+\
+
+ #383 Groudon Sin evolución
+\
+
+ #384 Rayquaza Sin evolución
+\
+
+ #385 Jirachi Sin evolución
+\
+
+ #386 Deoxys Sin evolución
+\
+
+ #387 Turtwig Fase inicial
+ #388 Grotle Subir al nivel 18
+ #389 Torterra Subir al nivel 32
+\
+
+ #390 Chimchar Fase inicial
+ #391 Monferno Subir al nivel 14
+ #392 Infernape Subir al nivel 36
+\
+
+ #393 Piplup Fase inicial
+ #394 Prinplup Subir al nivel 16
+ #395 Empoleon Subir al nivel 36
+\
+
+ #396 Starly Fase inicial
+ #397 Staravia Subir al nivel 14
+ #398 Staraptor Subir al nivel 34
+\
+
+ #399 Bidoof Fase inicial
+ #400 Bibarel Subir al nivel 15
+\
+
+ #401 Kricketot Fase inicial
+ #402 Kricketune Subir al nivel 10
+\
+
+ #403 Shinx Fase inicial
+ #404 Luxio Subir al nivel 15
+ #405 Luxray Subir al nivel 30
+\
+
+ #408 Cranidos Fase inicial
+ #409 Rampardos Subir al nivel 30
+\
+
+ #410 Shieldon Fase inicial
+ #411 Bastiodon Subir al nivel 30
+\
+
+ #412 Burmy Fase inicial
+ #413 Wormadam Subir al nivel 20 siendo hembra
+ #414 Mothim Subir nivel siendo macho
+\
+
+ #415 Combee Fase inicial
+ #416 Vespiquen Subir al nivel 21 siendo hembra
+\
+
+ #417 Pachirisu Sin evolución
+\
+
+ #418 Buizel Fase inicial
+ #419 Floatzel Subir al nivel 26
+\
+
+ #420 Cherubi Fase inicial
+ #421 Cherrim Subir al nivel 25
+\
+
+ #422 Shellos Fase inicial
+ #423 Gastrodon Subir al nivel 30
+\
+
+ #425 Drifloon Fase inicial
+ #426 Drifblim Subir al nivel 28
+\
+
+ #427 Buneary Fase inicial
+ #428 Lopunny Subir nivel con 218 de Felicidad
+\
+
+ #431 Glameow Fase inicial
+ #432 Purugly Subir al nivel 38
+\
+
+ #434 Stunky Fase inicial
+ #435 Skuntank Subir al nivel 34
+\
+
+ #436 Bronzor Fase inicial
+ #437 Bronzong Subir al nivel 33
+\
+
+ #441 Chatot Sin evolución
+\
+
+ #442 Spiritomb Sin evolución
+\
+
+ #443 Gible Fase inicial
+ #444 Gabite Subir al nivel 24
+ #445 Garchomp Subir al nivel 48
+\
+
+ #447 Riolu Fase inicial
+ #448 Lucario Subir nivel de día con 218 de Felicidad
+\
+
+ #449 Hippopotas Fase inicial
+ #450 Hippowdon Subir al nivel 34
+\
+
+ #451 Skorupi Fase inicial
+ #452 Drapion Subir al nivel 40
+\
+
+ #453 Croagunk Fase inicial
+ #454 Toxicroak Subir al nivel 37
+\
+
+ #455 Carnivine Sin evolución
+\
+
+ #456 Finneon Fase inicial
+ #457 Lumineon Subir al nivel 31
+\
+
+ #459 Snover Fase inicial
+ #460 Abomasnow Subir al nivel 40
+\
+
+ #479 Rotom Sin evolución
+\
+
+ #480 Uxie Sin evolución
+\
+
+ #481 Mesprit Sin evolución
+\
+
+ #482 Azelf Sin evolución
+\
+
+ #483 Dialga Sin evolución
+\
+
+ #484 Palkia Sin evolución
+\
+
+ #485 Heatran Sin evolución
+\
+
+ #486 Regigigas Sin evolución
+\
+
+ #487 Giratina Sin evolución
+\
+
+ #488 Cresselia Sin evolución
+\
+
+ #489 Phione Sin evolución
+\
+
+ #490 Manaphy Sin evolución
+\
+
+ #491 Darkrai Sin evolución
+\
+
+ #492 Shaymin Sin evolución
+\
+
+ #493 Arceus Sin evolución
+\
+
+ #494 Victini Sin evolución
+\
+
+ #495 Snivy Fase inicial
+ #496 Servine Subir al nivel 17
+ #497 Serperior Subir al nivel 36
+\
+
+ #498 Tepig Fase inicial
+ #499 Pignite Subir al nivel 17
+ #500 Emboar Subir al nivel 36
+\
+
+ #501 Oshawott Fase inicial
+ #502 Dewott Subir al nivel 17
+ #503 Samurott Subir al nivel 36
+\
+
+ #504 Patrat Fase inicial
+ #505 Watchog Subir al nivel 20
+\
+
+ #506 Lillipup Fase inicial
+ #507 Herdier Subir al nivel 16
+ #508 Stoutland Subir al nivel 32
+\
+
+ #509 Purrloin Fase inicial
+ #510 Liepard Subir al nivel 20
+\
+
+ #511 Pansage Fase inicial
+ #512 Simisage Usar Piedra Hoja
+\
+
+ #513 Pansear Fase inicial
+ #514 Simisear Usar Piedra Fuego
+\
+
+ #515 Panpour Fase inicial
+ #516 Simipour Usar Piedra Agua
+\
+
+ #517 Munna Fase inicial
+ #518 Musharna Usar Piedra Lunar
+\
+
+ #519 Pidove Fase inicial
+ #520 Tranquill Subir al nivel 21
+ #521 Unfezant Subir al nivel 32
+\
+
+ #522 Blitzle Fase inicial
+ #523 Zebstrika Subir al nivel 27
+\
+
+ #524 Roggenrola Fase inicial
+ #525 Boldore Subir al nivel 25
+ #526 Gigalith Intercambiar
+\
+
+ #527 Woobat Fase inicial
+ #528 Swoobat Subir nivel con 218 de Felicidad
+\
+
+ #529 Drilbur Fase inicial
+ #530 Excadrill Subir al nivel 31
+\
+
+ #531 Audino Sin evolución
+\
+
+ #532 Timburr Fase inicial
+ #533 Gurdurr Subir al nivel 25
+ #534 Conkeldurr Intercambiar
+\
+
+ #535 Tympole Fase inicial
+ #536 Palpitoad Subir al nivel 25
+ #537 Seismitoad Subir al nivel 36
+\
+
+ #538 Throh Sin evolución
+\
+
+ #539 Sawk Sin evolución
+\
+
+ #540 Sewaddle Fase inicial
+ #541 Swadloon Subir al nivel 20
+ #542 Leavanny Subir nivel con 218 de Felicidad
+\
+
+ #543 Venipede Fase inicial
+ #544 Whirlipede Subir al nivel 22
+ #545 Scolipede Subir al nivel 30
+\
+
+ #546 Cottonee Fase inicial
+ #547 Whimsicott Usar Piedra Solar
+\
+
+ #548 Petilil Fase inicial
+ #549 Lilligant Usar Piedra Solar
+\
+
+ #550 Basculin Sin evolución
+\
+
+ #551 Sandile Fase inicial
+ #552 Krokorok Subir al nivel 29
+ #553 Krookodile Subir al nivel 40
+\
+
+ #554 Darumaka Fase inicial
+ #555 Darmanitan Subir al nivel 35
+\
+
+ #556 Maractus Sin evolución
+\
+
+ #557 Dwebble Fase inicial
+ #558 Crustle Subir al nivel 34
+\
+
+ #559 Scraggy Fase inicial
+ #560 Scrafty Subir al nivel 39
+\
+
+ #561 Sigilyph Sin evolución
+\
+
+ #562 Yamask Fase inicial
+ #563 Cofagrigus Subir al nivel 34
+\
+
+ #564 Tirtouga Fase inicial
+ #565 Carracosta Subir al nivel 37
+\
+
+ #566 Archen Fase inicial
+ #567 Archeops Subir al nivel 37
+\
+
+ #568 Trubbish Fase inicial
+ #569 Garbodor Subir al nivel 36
+\
+
+ #570 Zorua Fase inicial
+ #571 Zoroark Subir al nivel 30
+\
+
+ #572 Minccino Fase inicial
+ #573 Cinccino Usar Piedra Día
+\
+
+ #574 Gothita Fase inicial
+ #575 Gothorita Subir al nivel 32
+ #576 Gothitelle Subir al nivel 41
+\
+
+ #577 Solosis Fase inicial
+ #578 Duosion Subir al nivel 32
+ #579 Reuniclus Subir al nivel 41
+\
+
+ #580 Ducklett Fase inicial
+ #581 Swanna Subir al nivel 35
+\
+
+ #582 Vanillite Fase inicial
+ #583 Vanillish Subir al nivel 35
+ #584 Vanilluxe Subir al nivel 47
+\
+
+ #585 Deerling Fase inicial
+ #586 Sawsbuck Subir al nivel 34
+\
+
+ #587 Emolga Sin evolución
+\
+
+ #588 Karrablast Fase inicial
+ #589 Escavalier Intercambiar por un Shelmet
+\
+
+ #590 Foongus Fase inicial
+ #591 Amoonguss Subir al nivel 39
+\
+
+ #592 Frillish Fase inicial
+ #593 Jellicent Subir al nivel 40
+\
+
+ #594 Alomomola Sin evolución
+\
+
+ #595 Joltik Fase inicial
+ #596 Galvantula Subir al nivel 36
+\
+
+ #597 Ferroseed Fase inicial
+ #598 Ferrothorn Subir al nivel 40
+\
+
+ #599 Klink Fase inicial
+ #600 Klang Subir al nivel 38
+ #601 Klinklang Subir al nivel 49
+\
+
+ #602 Tynamo Fase inicial
+ #603 Eelektrik Subir al nivel 39
+ #604 Eelektross Usar Piedratrueno
+\
+
+ #605 Elgyem Fase inicial
+ #606 Beheeyem Subir al nivel 42
+\
+
+ #607 Litwick Fase inicial
+ #608 Lampent Subir al nivel 41
+ #609 Chandelure Usar Piedra Noche
+\
+
+ #610 Axew Fase inicial
+ #611 Fraxure Subir al nivel 38
+ #612 Haxorus Subir al nivel 48
+\
+
+ #613 Cubchoo Fase inicial
+ #614 Beartic Subir al nivel 37
+\
+
+ #615 Cryogonal Sin evolución
+\
+
+ #616 Shelmet Fase inicial
+ #617 Accelgor Intercambiar por un Karrablast
+\
+
+ #618 Stunfisk Sin evolución
+\
+
+ #619 Mienfoo Fase inicial
+ #620 Mienshao Subir al nivel 50
+\
+
+ #621 Druddigon Sin evolución
+\
+
+ #622 Golett Fase inicial
+ #623 Golurk Subir al nivel 43
+\
+
+ #624 Pawniard Fase inicial
+ #625 Bisharp Subir al nivel 52
+\
+
+ #626 Bouffalant Sin evolución
+\
+
+ #627 Rufflet Fase inicial
+ #628 Braviary Subir al nivel 54
+\
+
+ #629 Vullaby Fase inicial
+ #630 Mandibuzz Subir al nivel 54
+\
+
+ #631 Heatmor Sin evolución
+\
+
+ #632 Durant Sin evolución
+\
+
+ #633 Deino Fase inicial
+ #634 Zweilous Subir al nivel 50
+ #635 Hydreigon Subir al nivel 64
+\
+
+ #636 Larvesta Fase inicial
+ #637 Volcarona Subir al nivel 59
+\
+
+ #638 Cobalion Sin evolución
+\
+
+ #639 Terrakion Sin evolución
+\
+
+ #640 Virizion Sin evolución
+\
+
+ #641 Tornadus Sin evolución
+\
+
+ #642 Thundurus Sin evolución
+\
+
+ #643 Reshiram Sin evolución
+\
+
+ #644 Zekrom Sin evolución
+\
+
+ #645 Landorus Sin evolución
+\
+
+ #646 Kyurem Sin evolución
+\
+
+ #647 Keldeo Sin evolución
+\
+
+ #648 Meloetta Sin evolución
+\
+
+ #649 Genesect Sin evolución
+\
+
+ #650 Chespin Fase inicial
+ #651 Quilladin Subir al nivel 16
+ #652 Chesnaught Subir al nivel 32
+\
+
+ #653 Fennekin Fase inicial
+ #654 Braixen Subir al nivel 16
+ #655 Delphox Subir al nivel 36
+\
+
+ #656 Froakie Fase inicial
+ #657 Frogadier Subir al nivel 16
+ #658 Greninja Subir al nivel 36
+\
+
+ #659 Bunnelby Fase inicial
+ #660 Diggersby Subir al nivel 20
+\
+
+ #661 Fletchling Fase inicial
+ #662 Fletchinder Subir al nivel 17
+ #663 Talonflame Subir al nivel 35
+\
+
+ #664 Scatterbug Fase inicial
+ #665 Spewpa Subir al nivel 9
+ #666 Vivillon Subir al nivel 12
+\
+
+ #667 Litleo Fase inicial
+ #668 Pyroar Subir al nivel 35
+\
+
+ #669 Flabébé Fase inicial
+ #670 Floette Subir al nivel 19
+ #671 Florges Usar Piedra Día
+\
+
+ #672 Skiddo Fase inicial
+ #673 Gogoat Subir al nivel 32
+\
+
+ #674 Pancham Fase inicial
+ #675 Pangoro Subir al nivel 32 llevando un Pokémon del tipo Siniestro
+\
+
+ #676 Furfrou Sin evolución
+\
+
+ #677 Espurr Fase inicial
+ #678 Meowstic Subir al nivel 25
+\
+
+ #679 Honedge Fase inicial
+ #680 Doublade Subir al nivel 35
+ #681 Aegislash Usar Piedra Noche
+\
+
+ #682 Spritzee Fase inicial
+ #683 Aromatisse Intercambiar llevando Saquito Fragante
+\
+
+ #684 Swirlix Fase inicial
+ #685 Slurpuff Intercambiar llevando Dulce de Nata
+\
+
+ #686 Inkay Fase inicial
+ #687 Malamar Subir al nivel 30 sujetando la consola al revés
+\
+
+ #688 Binacle Fase inicial
+ #689 Barbaracle Subir al nivel 39
+\
+
+ #690 Skrelp Fase inicial
+ #691 Dragalge Subir al nivel 48
+\
+
+ #692 Clauncher Fase inicial
+ #693 Clawitzer Subir al nivel 37
+\
+
+ #694 Helioptile Fase inicial
+ #695 Heliolisk Usar Piedra Solar
+\
+
+ #696 Tyrunt Fase inicial
+ #697 Tyrantrum Subir al nivel 39 de día
+\
+
+ #698 Amaura Fase inicial
+ #699 Aurorus Subir al nivel 39 de noche
+\
+
+ #701 Hawlucha Sin evolución
+\
+
+ #702 Dedenne Sin evolución
+\
+
+ #703 Carbink Sin evolución
+\
+
+ #704 Goomy Fase inicial
+ #705 Sliggoo Subir al nivel 40
+ #706 Goodra Subir al nivel 50 en zona con lluvia
+\
+
+ #707 Klefki Sin evolución
+\
+
+ #708 Phantump Fase inicial
+ #709 Trevenant Intercambiar
+\
+
+ #710 Pumpkaboo Fase inicial
+ #711 Gourgeist Intercambiar
+\
+
+ #712 Bergmite Fase inicial
+ #713 Avalugg Subir al nivel 40
+\
+
+ #714 Noibat Fase inicial
+ #715 Noivern Subir al nivel 48
+\
+
+ #716 Xerneas Sin evolución
+\
+
+ #717 Yveltal Sin evolución
+\
+
+ #718 Zygarde Sin evolución
+\
+
+ #719 Diancie Sin evolución
+\
+
+ #720 Hoopa Sin evolución
+\
+
+ #721 Volcanion Sin evolución
+\

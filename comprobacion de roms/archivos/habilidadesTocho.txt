@@ -1,0 +1,534 @@
+-1 Cacofonía
+Cacophony Evita ataques de sonido.  — — —
+001 Hedor
+Stench Puede amedrentar al rival al atacarlo debido al mal olor que emana.  — Grimer, Muk, Stunky, Skuntank, Trubbish, Garbodor Gloom
+002 Llovizna
+Drizzle Hace que llueva al entrar en combate.  Kyogre Pelipper Politoed
+003 Impulso
+Speed Boost Aumenta su velocidad en cada turno.  Mega-Blaziken, Ninjask Yanma, Yanmega Torchic, Combusken, Blaziken, Carvanha, Sharpedo, Venipede, Whirlipede, Scolipede
+004 Armadura batalla
+Battle Armor La robusta coraza que lo protege bloquea los golpes críticos.  Anorith, Armaldo, Código Cero, Falinks Kabuto, Kabutops, Skorupi, Drapion, Perrserker Cubone, Marowak
+005 Robustez
+Sturdy Evita que el rival pueda debilitarlo de un solo golpe cuando tiene los PS al máximo. También evita los movimientos fulminantes.  Pineco, Forretress, Donphan, Shieldon, Bastiodon, Cosmoem Geodude, Graveler, Golem, Geodude de Alola, Graveler de Alola, Golem de Alola, Magnemite, Magneton, Magnezone, Onix, Steelix, Bonsly, Sudowoodo, Shuckle, Skarmory, Nosepass, Probopass, Aron, Lairon, Aggron, Roggenrola, Boldore, Gigalith, Sawk, Dwebble, Crustle, Tirtouga, Carracosta Relicanth, Regirock, Tyrunt, Carbink, Bergmite, Avalugg, Togedemaru
+006 Humedad
+Damp Aumenta la humedad del entorno y evita que se puedan utilizar movimientos explosivos, tales como autodestrucción.  — Poliwag, Poliwhirl, Poliwrath, Politoed, Psyduck, Golduck, Wooper, Quagsire Paras, Parasect, Horsea, Seadra, Kingdra, Mudkip, Marshtomp, Swampert, Frillish, Jellicent
+007 Flexibilidad
+Limber Evita ser paralizado gracias a la flexibilidad de su cuerpo.  Ditto, Clobbopus, Grapploct Persian, Hitmonlee, Glameow, Purrloin, Liepard, Stunfisk, Hawlucha, Mareanie, Toxapex Buneary, Lopunny
+008 Velo arena
+Sand Veil Aumenta su evasión durante las tormentas de arena.  Sandshrew, Sandslash, Cacnea, Cacturne, Gible, Gabite, Garchomp Diglett, Dugtrio, Diglett de Alola, Dugtrio de Alola, Gligar, Gliscor, Helioptile, Heliolisk Geodude, Graveler, Golem, Phanpy, Donphan, Larvitar, Stunfisk, Sandygast, Palossand, Silicobra, Sandaconda
+009 Electricidad estática
+Static La electricidad estática que lo envuelve puede paralizar al mínimo contacto.  Pichu, Pikachu, Raichu, Elekid, Electabuzz, Mareep, Flaaffy, Ampharos, Emolga Voltorb, Electrode, Electrike, Manectric, Stunfisk, Toxel, Arctozolt Zapdos
+010 Absorbe electricidad
+Volt Absorb Si le alcanza un movimiento de tipo eléctrico, recupera PS en vez de sufrir daño.  Jolteon, Thundurus forma tótem, Zeraora Chinchou, Lanturn, Dracozolt, Arctozolt Minun, Pachirisu
+011 Absorbe agua
+Water Absorb Si le alcanza un movimiento de tipo agua, recupera PS en vez de sufrir daño.  Vaporeon, Volcanion Poliwag, Poliwhirl, Poliwrath, Politoed, Lapras, Wooper, Quagsire, Mantyke, Mantine, Maractus, Frillish, Jellicent, Dracovish, Arctovish Chinchou, Lanturn, Cacnea, Cacturne, Tympole, Palpitoad, Seismitoad, Dewpider, Araquanid
+012 Despiste
+Oblivious Su indiferencia evita que sea provocado o caiga presa del enamoramiento.  — Slowpoke, Slowbro, Slowking, Lickitung, Lickilicky, Smoochum, Jynx, Swinub, Piloswine, Mamoswine, Illumise, Wailmer, Wailord, Numel, Barboach, Whiscash, Feebas, Bounsweet, Steenee Spheal, Sealeo, Walrein, Salandit, Salazzle
+013 Aclimatación
+Cloud Nine Anula todos los efectos del tiempo atmosférico.  — Psyduck, Golduck Lickitung, Swablu, Altaria, Lickilicky, Drampa
+014 Ojo compuesto
+Compound Eyes Aumenta la precisión de sus movimientos.  Butterfree, Nincada Venonat, Yanma, Joltik, Galvantula, Scatterbug, Vivillon2, Blipbug, Dottler Dustox
+015 Insomnio
+Insomnia Su resistencia al sueño le impide quedarse dormido.  Mega-Mewtwo Y Drowzee, Hypno, Hoothoot, Noctowl, Spinarak, Ariados, Murkrow, Honchkrow, Shuppet, Banette Delibird, Pumpkaboo2, Gourgeist2
+016 Cambio color
+Color Change Adopta el tipo del último movimiento del que es blanco.  Kecleon — —
+017 Inmunidad
+Immunity Su sistema inmunitario evita el envenenamiento.  Zangoose Snorlax Gligar
+018 Absorbe fuego
+Flash Fire Si le alcanza algún movimiento de tipo fuego, potencia sus propios movimientos de dicho tipo.  Vulpix, Ninetales, Flareon, Heatran Growlithe, Arcanine, Ponyta, Rapidash, Houndour, Houndoom, Litwick, Lampent, Chandelure, Heatmor, Sizzlipede, Centiskorch Cyndaquil, Quilava, Typhlosion, Rolycoly, Carkol, Coalossal
+019 Polvo escudo
+Shield Dust El polvo de escamas que lo envuelve lo protege de los efectos secundarios de los ataques recibidos.  Caterpie, Weedle, Wurmple, Dustox, Snom, Frosmoth Venomoth, Scatterbug, Vivillon2, Cutiefly, Ribombee —
+020 Ritmo propio
+Own Tempo Como le gusta hacer las cosas a su manera, los rivales no logran confundirlo.  Rockruff Slowpoke, Slowbro, Slowking, Slowpoke de Galar, Slowbro de Galar, Slowking de Galar, Lickitung, Lickilicky, Smeargle, Spoink, Grumpig, Spinda, Glameow, Purugly, Petilil, Lilligant, Bergmite, Avalugg, Mudbray, Mudsdale, Indeedee ♀ Lotad, Lombre, Ludicolo, Numel, Espurr
+021 Ventosas
+Suction Cups Sus ventosas se aferran al suelo, con lo cual anula movimientos y objetos que fuerzan el relevo.  Lileep, Cradily Octillery, Inkay, Malamar —
+022 Intimidación
+Intimidate Al entrar en combate amilana al rival de tal manera que su ataque disminuye.  Gyarados, Masquerain, Mega-Manectric, Salamence, Staravia, Staraptor, Landorus forma tótem Ekans, Arbok, Growlithe, Arcanine, Tauros, Snubbull, Granbull, Stantler, Hitmontop, Mightyena, Mawile, Shinx, Luxio, Luxray, Herdier, Stoutland, Sandile, Krokorok, Krookodile Qwilfish, Scraggy, Scrafty, Litten, Torracat, Incineroar
+023 Sombra trampa
+Shadow Tag Impide que el enemigo huya o sea cambiado por otro.  Mega-Gengar, Wynaut, Wobbuffet — Gothita, Gothorita, Gothitelle
+024 Piel tosca
+Rough Skin Hiere con su piel áspera al rival que lo ataque con un movimiento de contacto.  Carvanha, Sharpedo Druddigon Gible, Gabite, Garchomp
+025 Superguarda
+Wonder Guard Gracias a un poder misterioso, solo le hacen daño los movimientos supereficaces.  Shedinja — —
+026 Levitación
+Levitate Su capacidad de flotar sobre el suelo le proporciona inmunidad frente a los movimientos de tipo tierra.  Gastly, Haunter, Koffing, Weezing, Weezing de Galar, Misdreavus, Mismagius, Unown2, Vibrava, Flygon, Lunatone, Solrock, Baltoy, Claydol, Duskull, Chingling, Chimecho, Latias, Mega-Latias, Latios, Mega-Latios, Carnivine, Rotom2, Uxie, Mesprit, Azelf, Cresselia, Giratina forma origen, Tynamo, Eelektross, Eelektrik, Cryogonal, Hydreigon, Vikavolt Bronzor, Bronzong —
+027 Efecto espora
+Effect Spore Puede dormir, envenenar o paralizar al Pokémon con el que entre en contacto al recibir un ataque.  Foongus, Amoonguss Paras, Parasect, Shroomish, Breloom, Morelull, Shiinotic Vileplume, Gossifleur, Eldegoss
+028 Sincronía
+Synchronize Contagia el envenenamiento, las quemaduras o la parálisis al Pokémon que le cause ese estado.  Mew, Espeon, Umbreon Abra, Kadabra, Alakazam, Natu, Xatu, Ralts, Kirlia, Gardevoir, Munna, Musharna, Elgyem, Beheeyem, Indeedee ♂, Indeedee ♀ —
+029 Cuerpo puro
+Clear Body Evita que bajen sus características a causa de movimientos o habilidades de otros Pokémon.  Beldum, Metang, Metagross, Regirock, Regice, Registeel, Carbink, Diancie Tentacool, Tentacruel, Dreepy, Drakloak, Dragapult Klink, Klang, Klinklang
+030 Cura natural
+Natural Cure Cura sus problemas de estado al cambiarse con otro Pokémon.  Celebi, Swablu, Altaria, Shaymin Happiny, Chansey, Blissey, Staryu, Starmie, Corsola, Budew, Roselia, Roserade, Phantump, Trevenant Comfey
+031 Pararrayos
+Lightning Rod Atrae y neutraliza los movimientos de tipo eléctrico, que además le suben el ataque especial.  Mega-Sceptile, Pincurchin Cubone, Marowak, Marowak de Alola, Rhyhorn, Rhydon, Rhyperior, Electrike, Manectric, Blitzle, Zebstrika, Togedemaru Pichu, Pikachu, Raichu, Goldeen, Seaking, Plusle
+032 Dicha
+Serene Grace Aumenta la probabilidad de que los movimientos causen efectos secundarios.  Jirachi, Shaymin forma cielo, Meloetta2 Happiny, Chansey, Blissey, Togepi, Togetic, Togekiss, Dunsparce Deerling2, Sawsbuck2
+033 Nado rápido
+Swift Swim Sube su velocidad cuando llueve.  Magikarp, Mega-Swampert, Surskit, Huntail, Gorebyss, Luvdisc, Buizel, Floatzel, Arrokuda, Barraskewda Horsea, Kingdra, Goldeen, Seaking, Omanyte, Omastar, Kabuto, Kabutops, Qwilfish, Mantyke, Mantine, Lotad, Lombre, Ludicolo, Feebas, Relicanth, Finneon, Lumineon, Tympole, Palpitoad, Seismitoad Psyduck, Golduck, Poliwag, Poliwhirl, Poliwrath, Anorith, Armaldo, Tirtouga, Carracosta, Beartic, Chewtle, Drednaw
+034 Clorofila
+Chlorophyll Sube su velocidad cuando hace sol.  Oddish, Gloom, Vileplume, Bellossom, Bellsprout, Weepinbell, Victreebel, Exeggcute, Exeggutor, Cherubi Tangela, Tangrowth, Hoppip, Skiploom, Jumpluff, Sunkern, Sunflora, Seedot, Nuzleaf, Shiftry, Tropius, Sewaddle, Swadloon, Leavanny, Petilil, Lilligant, Maractus, Deerling2, Sawsbuck2 Bulbasaur, Ivysaur, Venusaur, Leafeon, Cottonee, Whimsicott
+035 Iluminación
+Illuminate Aumenta la probabilidad de encontrar Pokémon al iluminar el entorno.  — Staryu, Starmie, Chinchou, Lanturn, Volbeat, Watchog, Morelull, Shiinotic —
+036 Rastro
+Trace Al entrar en combate copia la habilidad del rival.  Mega-Alakazam Porygon, Porygon2, Ralts, Kirlia, Gardevoir —
+037 Potencia
+Huge Power Duplica la potencia de sus ataques físicos.  Mega-Mawile Azurill, Marill, Azumarill Bunnelby, Diggersby
+038 Punto tóxico
+Poison Point Puede envenenar al mínimo contacto.  — Nidoran♀, Nidorina, Nidoqueen, Nidoran♂, Nidorino, Nidoking, Seadra, Qwilfish, Budew, Roselia, Roserade, Venipede, Whirlipede, Scolipede, Skrelp, Dragalge —
+039 Foco interno
+Inner Focus Gracias a su profunda concentración, no se amedrenta ante los ataques del rival.  Zubat, Golbat, Crobat, Dragonite, Mega-Gallade, Kubfu Abra, Kadabra, Alakazam, Farfetch'd, Girafarig, Sneasel, Snorunt, Glalie, Riolu, Lucario, Throh, Sawk, Mienfoo, Mienshao, Pawniard, Bisharp, Oranguru, Indeedee ♂ Drowzee, Hypno, Hitmonchan, Kangaskhan, Umbreon, Raikou, Entei, Suicune, Darumaka, Darumaka de Galar, Mudbray, Mudsdale
+040 Escudo magma
+Magma Armor Gracias al magma candente que lo envuelve, no puede ser congelado.  — Slugma, Magcargo, Camerupt —
+041 Velo agua
+Water Veil Evita las quemaduras gracias a la capa de agua que lo envuelve.  — Goldeen, Seaking, Wailmer, Wailord Mantine, Huntail, Buizel, Floatzel, Finneon, Lumineon, Mantyke
+042 Imán
+Magnet Pull Su magnetismo atrae a los Pokémon de tipo acero y les impide huir.  Meltan Geodude de Alola, Graveler de Alola, Golem de Alola, Magnemite, Magneton, Magnezone, Nosepass, Probopass —
+043 Insonorizar
+Soundproof Su aislamiento acústico lo protege de movimientos que usan sonido.  Whismur, Loudred, Exploud Voltorb, Electrode, Mime Jr., Mr. Mime, Jangmo-o, Hakamo-o, Kommo-o Shieldon, Bastiodon, Snover, Abomasnow, Bouffalant
+044 Cura lluvia
+Rain Dish Recupera PS de forma gradual cuando llueve.  — Lotad, Lombre, Ludicolo Squirtle, Wartortle, Blastoise, Tentacool, Tentacruel, Wingull, Pelipper, Surskit, Morelull, Shiinotic
+045 Chorro arena
+Sand Stream Crea una tormenta de arena al entrar en combate.  Tyranitar, Mega-Tyranitar, Hippopotas, Hippowdon Gigalith —
+046 Presión
+Pressure Presiona al rival para que sus PP se acaben antes.  Articuno, Zapdos, Moltres, Mewtwo, Raikou, Entei, Suicune, Lugia, Ho-Oh, Dusclops, Dusknoir, Deoxys2, Vespiquen, Spiritomb, Weavile, Dialga, Palkia, Giratina forma modificada, Kyurem, Eternatus, Eternatus Dinamax infinito Aerodactyl, Absol, Corviknight Wailmer, Wailord, Pawniard, Bisharp
+047 Sebo
+Thick Fat Gracias a la gruesa capa de grasa que lo protege, reduce a la mitad el daño que recibe de ataques de tipo fuego y hielo.  Mega-Venusaur Seel, Dewgong, Munchlax, Snorlax, Azurill, Marill, Azumarill, Miltank, Makuhita, Hariyama, Spoink, Grumpig, Spheal, Sealeo, Walrein, Purugly Rattata de Alola, Raticate de Alola, Swinub, Piloswine, Mamoswine, Tepig, Pignite, Appletun
+048 Madrugar
+Early Bird Si se duerme, tardará la mitad de tiempo en despertarse.  — Doduo, Dodrio, Kangaskhan, Ledyba, Ledian, Natu, Xatu, Girafarig, Houndour, Houndoom, Seedot, Nuzleaf, Shiftry Sunkern, Sunflora
+049 Cuerpo llama
+Flame Body Puede quemar al mínimo contacto.  Magby, Magmar, Magmortar, Larvesta, Volcarona, Fletchinder, Talonflame Slugma, Magcargo, Litwick, Lampent, Chandelure, Carkol, Coalossal Ponyta, Rapidash, Moltres, Heatran, Sizzlipede, Centiskorch
+050 Fuga
+Run Away Puede escaparse de todos los Pokémon salvajes.  — Rattata, Raticate, Ponyta, Rapidash, Ponyta de Galar, Rapidash de Galar, Doduo, Dodrio, Eevee, Sentret, Furret, Aipom, Dunsparce, Snubbull, Poochyena, Pachirisu, Buneary, Patrat, Nickit, Thievul, Wooloo Caterpie, Weedle, Oddish, Venonat, Wurmple, Nincada, Kricketot, Lillipup
+051 Vista lince
+Keen Eye Su aguda vista evita que le disminuya la precisión.  Spearow, Fearow, Starly Pidgey, Pidgeotto, Pidgeot, Farfetch'd, Hitmonchan, Sentret, Furret, Hoothoot, Noctowl, Sneasel, Skarmory, Wingull, Pelipper, Sableye, Chatot, Patrat, Watchog, Ducklett, Swanna, Rufflet, Braviary, Espurr, Meowstic macho, Meowstic hembra, Pikipek, Trumbeak, Toucannon, Rockruff, Lycanroc diurno, Lycanroc nocturno, Rookidee, Corvisquire Glameow, Stunky, Skuntank, Skorupi, Drapion
+052 Corte fuerte
+Hyper Cutter Evita que el rival le baje el ataque.  — Krabby, Kingler, Pinsir, Gligar, Gliscor, Mawile, Corphish, Crawdaunt, Trapinch, Crabrawler, Crabominable —
+053 Recogida
+Pickup Puede recoger objetos que el rival haya usado, o bien otros que encuentre en plena aventura.  Phanpy Meowth, Meowth de Alola, Meowth de Galar, Aipom, Ambipom, Teddiursa, Zigzagoon, Linoone, Zigzagoon de Galar, Linoone de Galar, Pachirisu, Munchlax, Lillipup, Bunnelby, Diggersby, Dedenne, Pumpkaboo2, Gourgeist2 Pikipek, Trumbeak
+054 Ausente
+Truant Al ejecutar un movimiento, descansará en el turno siguiente.  Slakoth, Slaking — Durant
+055 Entusiasmo
+Hustle Aumenta su ataque, pero reduce su precisión.  Darumaka, Darumaka de Galar, Deino, Zweilous Rattata de Alola, Raticate de Alola, Togepi, Togetic, Togekiss, Corsola, Remoraid, Delibird, Durant, Dracozolt Rattata, Raticate, Nidoran♀, Nidorina, Nidoran♂, Nidorino, Combee, Rufflet, Flapple
+056 Gran encanto
+Cute Charm Puede causar enamoramiento al rival que lo toque.  Sylveon Cleffa, Clefairy, Clefable, Igglybuff, Jigglypuff, Wigglytuff, Skitty, Delcatty, Lopunny, Minccino, Cinccino Milotic, Stufful
+057 Más
+Plus Potencia su ataque especial si un Pokémon aliado tiene la habilidad más o menos.  Plusle Klink, Klang, Klinklang, Toxtricity aguda Mareep, Flaaffy, Ampharos, Dedenne
+058 Menos
+Minus Potencia su ataque especial si un Pokémon aliado tiene la habilidad más o menos.  Minun Klink, Klang, Klinklang, Toxtricity grave Electrike, Manectric
+059 Predicción
+Forecast Cambia a tipo agua, fuego o hielo en función del tiempo atmosférico.  Castform2 — —
+060 Viscosidad
+Sticky Hold Los objetos se quedan pegados a su cuerpo, por lo que no pueden robárselos.  — Grimer, Muk, Gulpin, Swalot, Shellos2, Gastrodon2, Trubbish, Accelgor —
+061 Mudar
+Shed Skin Puede curar sus problemas de estado al mudar la piel.  Metapod, Kakuna, Dratini, Dragonair, Pupitar, Silcoon, Cascoon, Seviper, Kricketot, Burmy2, Spewpa, Silicobra, Sandaconda Ekans, Arbok, Scraggy, Scrafty, Karrablast —
+062 Agallas
+Guts Si sufre un problemas de estado, se viene arriba y aumenta su ataque.  Larvitar, Taillow, Swellow Rattata, Raticate, Machop, Machoke, Machamp, Heracross, Ursaring, Tyrogue, Makuhita, Hariyama, Timburr, Gurdurr, Conkeldurr, Throh, Obstagoon Flareon, Shinx, Luxio, Luxray
+063 Escama especial
+Marvel Scale Sube su defensa si sufre un problemas de estado.  — Milotic Dratini, Dragonair
+064 Lodo líquido
+Liquid Ooze Exuda una sustancia tóxica de intenso hedor que hiere a quienes intentan drenarle PS.  — Tentacool, Tentacruel, Gulpin, Swalot —
+065 Espesura
+Overgrow Potencia sus movimientos de tipo planta cuando le quedan pocos PS.  Bulbasaur, Ivysaur, Venusaur, Chikorita, Bayleef, Meganium, Treecko, Grovyle, Sceptile, Turtwig, Grotle, Torterra, Snivy, Servine, Serperior, Chespin, Quilladin, Chesnaught, Rowlet, Dartrix, Decidueye, Grookey, Thwackey, Rillaboom — Pansage, Simisage
+066 Mar llamas
+Blaze Potencia sus movimientos de tipo fuego cuando le quedan pocos PS.  Charmander, Charmeleon, Charizard, Cyndaquil, Quilava, Typhlosion, Torchic, Combusken, Blaziken, Chimchar, Monferno, Infernape, Tepig, Pignite, Emboar, Fennekin, Braixen, Delphox, Litten, Torracat, Incineroar, Scorbunny, Raboot, Cinderace — Pansear, Simisear
+067 Torrente
+Torrent Potencia sus movimientos de tipo agua cuando le quedan pocos PS.  Squirtle, Wartortle, Blastoise, Totodile, Croconaw, Feraligatr, Mudkip, Marshtomp, Swampert, Piplup, Prinplup, Empoleon, Oshawott, Dewott, Samurott, Froakie, Frogadier, Greninja, Popplio, Brionne, Primarina, Sobble, Drizzile, Inteleon — Panpour, Simipour
+068 Enjambre
+Swarm Potencia sus movimientos de tipo bicho cuando le quedan pocos PS.  Beedrill, Beautifly, Kricketune, Mothim, Grubbin Scyther, Scizor, Ledyba, Ledian, Spinarak, Ariados, Heracross, Volbeat, Sewaddle, Leavanny, Venipede, Whirlipede, Scolipede, Karrablast, Escavalier, Durant, Blipbug, Dottler, Orbeetle Joltik, Galvantula, Larvesta, Volcarona
+069 Cabeza roca
+Rock Head No puede dañarse con sus propios movimientos.  Bagon, Shelgon Geodude, Graveler, Golem, Onix, Steelix, Cubone, Marowak, Aerodactyl, Rhyhorn, Rhydon, Bonsly, Sudowoodo, Aron, Lairon, Aggron, Relicanth, Basculin raya azul Marowak de Alola, Tyrantrum
+070 Sequía
+Drought Cuando entra en combate, el tiempo pasa a ser soleado.  Mega-Charizard Y, Groudon Torkoal Vulpix, Ninetales
+071 Trampa arena
+Arena Trap Evita que el rival huya.  — Diglett, Dugtrio, Trapinch —
+072 Espíritu vital
+Vital Spirit Su determinación le impide quedarse dormido.  Vigoroth Mankey, Primeape, Mr. Mime de Galar, Delibird, Lillipup, Rockruff, Lycanroc nocturno Electabuzz, Magmar, Tyrogue, Elekid, Magby, Electivire, Magmortar
+073 Humo blanco
+White Smoke El humo blanco que lo protege evita que otros Pokémon le bajen las características.  — Torkoal, Sizzlipede, Centiskorch Heatmor
+074 Energía pura
+Pure Power Duplica la potencia de sus ataques físicos gracias al yoga.  Meditite, Medicham, Mega-Medicham — —
+075 Caparazón
+Shell Armor La robusta coraza que lo protege bloquea los golpes críticos.  Mega-Slowbro, Clamperl, Turtonator Shellder, Cloyster, Krabby, Kingler, Lapras, Omanyte, Omastar, Corphish, Crawdaunt, Dwebble, Crustle, Escavalier, Shelmet, Chewtle, Drednaw Torkoal, Turtwig, Grotle, Torterra, Oshawott, Dewott, Samurott
+0763 Bucle aire
+Air Lock Neutraliza todos los efectos del tiempo atmosférico.  Rayquaza — —
+077 Tumbos
+Tangled Feet Sube su evasión si está confuso.  — Pidgey, Pidgeotto, Pidgeot, Spinda, Chatot, Mr. Rime Doduo, Dodrio
+078 Electromotor
+Motor Drive Si le alcanza un movimiento de tipo eléctrico, le sube la velocidad en vez de sufrir daño.  Electivire Blitzle, Zebstrika Emolga
+079 Rivalidad
+Rivalry Si el objetivo es del mismo sexo, su competitividad le lleva a infligir más daño. Si es del sexo contrario, en cambio, el daño será menor.  — Nidoran♀, Nidorina, Nidoqueen, Nidoran♂, Nidorino, Nidoking, Shinx, Luxio, Luxray, Axew, Fraxure, Haxorus, Litleo, Pyroar Beautifly, Pidove, Tranquill, Unfezant
+080 Impasible
+Steadfast Cada vez que se amedrenta sube su velocidad, debido a su voluntad inquebrantable.  Farfetch'd de Galar, Sirfetch'd, Mega-Mewtwo X, Gallade Tyrogue, Riolu, Lucario, Dubwool Machop, Machoke, Machamp, Scyther, Hitmontop, Rockruff, Lycanroc diurno
+081 Manto níveo
+Snow Cloak Sube la evasión cuando graniza.  Sandshrew de Alola, Sandslash de Alola, Vulpix de Alola, Ninetales de Alola, Glaceon, Froslass Swinub, Piloswine, Mamoswine, Vanillite, Vanillish, Cubchoo, Beartic Articuno
+082 Gula
+Gluttony Cuando sus PS se ven reducidos a la mitad, engulle la baya que normalmente solo se comería cuando le quedasen pocos PS.  Pansage, Simisage, Pansear, Simisear, Panpour, Simipour Rattata de Alola, Raticate de Alola, Slowpoke de Galar, Grimer de Alola, Muk de Alola, Shuckle, Zigzagoon, Linoone, Heatmor, Applin, Flapple, Appletun Bellsprout, Weepinbell, Victreebel, Munchlax, Snorlax, Spoink, Grumpig, Gulpin, Swalot, Skwovet, Greedent
+083 Irascible
+Anger Point Si recibe un golpe crítico, monta en cólera y sube su ataque hasta el máximo.  — Mankey, Primeape, Tauros Sandile, Krokorok, Krookodile, Camerupt, Crabrawler, Crabominable
+084 Liviano
+Unburden Sube su velocidad si usa o pierde el objeto que lleva.  — Drifloon, Drifblim, Purrloin, Liepard, Hawlucha, Nickit, Thievul Hitmonlee, Treecko, Grovyle, Sceptile, Accelgor, Swirlix, Slurpuff
+085 Ignífugo
+Heatproof Su cuerpo, resistente al calor, reduce a la mitad el daño recibido por movimientos de tipo fuego.  — Bronzor, Bronzong, Rolycoly —
+086 Simple
+Simple Duplica los cambios en las características.  — Numel, Bidoof, Bibarel Woobat, Swoobat
+087 Piel seca
+Dry Skin Pierde PS si hace sol y los recupera si llueve o recibe un movimiento de tipo agua. Los movimientos de tipo fuego, por su parte, le hacen más daño de lo normal.  — Paras, Parasect, Croagunk, Toxicroak, Helioptile, Heliolisk Jynx
+088 Descarga
+Download Compara la defensa y la defensa especial del rival para ver cuál es inferior y aumenta su propio ataque o ataque especial, según sea lo más eficaz.  Genesect2 Porygon, Porygon2, Porygon-Z —
+089 Puño férreo
+Iron Fist Aumenta la potencia de los puñetazos.  Melmetal Hitmonchan, Golett, Golurk, Pancham, Pangoro, Crabrawler, Crabominable Ledian, Chimchar, Monferno, Infernape, Timburr, Gurdurr, Conkeldurr
+090 Antídoto
+Poison Heal Si resulta envenenado, recupera PS en vez de perderlos.  — Shroomish, Breloom Gliscor
+091 Adaptable
+Adaptability Potencia aún más los movimientos cuyo tipo coincida con el suyo.  Mega-Beedrill, Mega-Lucario Eevee, Porygon-Z, Basculin raya roja, Basculin raya azul Corphish, Crawdaunt, Feebas, Dragalge, Yungoos, Gumshoos
+092 Encadenado
+Skill Link Ejecuta siempre los movimientos múltiples con el número máximo de golpes.  Mega-Heracross Shellder, Cloyster, Pikipek, Trumbeak, Toucannon Aipom, Ambipom, Minccino, Cinccino
+093 Hidratación
+Hydration Cura los problemas de estado si está lloviendo.  Phione, Manaphy Seel, Dewgong, Wingull, Tympole, Palpitoad, Alomomola, Shelmet, Accelgor, Goomy, Sliggoo, Goodra Lapras, Vaporeon, Smoochum, Barboach, Whiscash, Ducklett, Swanna, Gorebyss, Luvdisc
+094 Poder solar
+Solar Power Si hace sol, aumenta su ataque especial, pero pierde PS en cada turno.  Mega-Houndoom Sunkern, Sunflora, Tropius Charmander, Charmeleon, Charizard, Helioptile, Heliolisk
+095 Pies rápidos
+Quick Feet Aumenta la velocidad si sufre problemas de estado.  — Granbull, Teddiursa, Ursaring, Poochyena, Mightyena Jolteon, Zigzagoon, Linoone, Zigzagoon de Galar, Linoone de Galar, Shroomish
+096 Normalidad
+Normalize Hace que todos sus movimientos se vuelvan de tipo normal y aumenten ligeramente su potencia.  — Skitty, Delcatty —
+097 Francotirador
+Sniper Potencia los golpes críticos que asesta aún más de lo normal.  — Horsea, Seadra, Kingdra, Remoraid, Octillery, Skorupi, Drapion, Binacle, Barbaracle Beedrill, Spearow, Fearow, Spinarak, Ariados, Sobble, Drizzile, Inteleon
+098 Muro mágico
+Magic Guard Solo recibe daño de ataques.  — Cleffa, Clefairy, Clefable, Sigilyph, Solosis, Duosion, Reuniclus Abra, Kadabra, Alakazam
+099 Indefenso
+No Guard Al quedar ambos expuestos, tanto sus movimientos como los del rival acertarán siempre.  Mega-Pidgeot, Honedge, Doublade Machop, Machoke, Machamp Karrablast, Golett, Golurk, Lycanroc nocturno
+100 Rezagado
+Stall Ejecuta su movimiento tras todos los demás.  — Sableye —
+101 Experto
+Technician Potencia sus movimientos más débiles.  Mega-Scizor, Marshadow Meowth, Persian, Meowth de Alola, Persian de Alola, Scyther, Scizor, Smeargle, Hitmontop, Ambipom, Minccino, Cinccino Mime Jr., Mr. Mime, Breloom, Kricketune, Roserade, Toxtricity aguda, Toxtricity grave, Clobbopus, Grapploct
+102 Defensa hoja
+Leaf Guard Evita los problemas de estado si hace sol.  Leafeon, Fomantis, Lurantis, Zarude2 Tangela, Hoppip, Skiploom, Jumpluff, Tangrowth, Swadloon, Bounsweet, Steenee, Tsareena Chikorita, Bayleef, Meganium, Budew, Roselia, Petilil, Lilligant
+103 Zoquete
+Klutz No puede usar objetos equipados.  — Buneary, Lopunny, Woobat, Swoobat, Golett, Golurk, Stufful, Bewear Audino, Toxel
+104 Rompemoldes
+Mold Breaker Las habilidades del objetivo no afectan a los movimientos que emplea.  Mega-Gyarados, Mega-Ampharos, Cranidos, Rampardos Pinsir, Axew, Fraxure, Haxorus, Pancham, Pangoro Drilbur, Excadrill, Throh, Sawk, Basculin raya roja, Basculin raya azul, Druddigon, Hawlucha
+105 Afortunado
+Super Luck Su buena suerte aumenta la probabilidad de asestar golpes críticos.  — Murkrow, Honchkrow, Absol, Pidove, Tranquill, Unfezant Togepi, Togetic, Togekiss
+106 Detonación
+Aftermath Daña al agresor que le ha dado el golpe de gracia con un movimiento de contacto.  — Drifloon, Drifblim, Stunky, Skuntank Voltorb, Electrode, Trubbish, Garbodor
+107 Anticipación
+Anticipation Prevé los movimientos peligrosos del rival.  Wormadam2 Ponyta de Galar, Rapidash de Galar, Barboach, Whiscash, Croagunk, Toxicroak, Hatenna, Hattrem, Hatterene Eevee, Ferrothorn
+108 Alerta
+Forewarn Indica el movimiento más potente del rival al entrar en combate.  — Drowzee, Hypno, Smoochum, Jynx, Munna, Musharna —
+109 Ignorante
+Unaware Pasa por alto las mejoras en las características del rival al atacar.  Cosmog Bidoof, Bibarel, Woobat, Swoobat Clefable, Wooper, Quagsire, Pyukumuku
+110 Cromolente
+Tinted Lens Potencia los movimientos que no son muy eficaces, que infligen ahora un daño normal.  — Venonat, Venomoth, Illumise, Yanmega Butterfree, Hoothoot, Noctowl, Sigilyph, Mothim
+111 Filtro
+Filter Mitiga el daño que le infligen los movimientos supereficaces.  Mega-Aggron Mime Jr., Mr. Mime —
+112 Inicio lento
+Slow Start Baja a la mitad su ataque y su velocidad durante cinco turnos.  Regigigas — —
+113 Intrépido
+Scrappy Puede alcanzar a Pokémon de tipo fantasma con movimientos de tipo normal o lucha.  Mega-Lopunny Kangaskhan, Miltank Farfetch'd de Galar, Sirfetch'd, Taillow, Swellow, Loudred, Exploud, Herdier, Stoutland, Pancham, Pangoro
+114 Colector
+Storm Drain Atrae y neutraliza los movimientos de tipo agua, que además le suben el ataque especial.  — Shellos2, Gastrodon2, Finneon, Lumineon Lileep, Cradily, Maractus
+115 Gélido
+Ice Body Recupera PS de forma gradual cuando hay tormentas de granizo.  — Snorunt, Glalie, Spheal, Sealeo, Walrein, Vanillite, Vanillish, Vanilluxe, Bergmite, Avalugg, Arctovish Mr. Mime de Galar, Mr. Rime, Seel, Dewgong, Regice, Glaceon
+116 Roca sólida
+Solid Rock Mitiga el daño que le infligen los movimientos supereficaces.  — Camerupt, Rhyperior, Tirtouga, Carracosta —
+117 Nevada
+Snow Warning Invoca una tormenta de granizo al entrar en combate.  Snover, Abomasnow, Mega-Abomasnow Vanilluxe Vulpix de Alola, Ninetales de Alola, Amaura, Aurorus
+118 Recogemiel
+Honey Gather Puede que encuentre miel una vez concluido el combate.  Combee Cutiefly, Ribombee Teddiursa
+119 Cacheo
+Frisk Puede ver el objeto que lleva el rival al entrar en combate.  Exeggutor de Alola Stantler, Shuppet, Banette, Gothita, Gothorita, Gothitelle, Phantump, Trevenant, Pumpkaboo2, Gourgeist2, Noibat, Noivern, Orbeetle, Impidimp, Morgrem, Grimmsnarl Wigglytuff, Sentret, Furret, Yanma, Yanmega, Duskull, Dusclops, Dusknoir
+120 Audaz
+Reckless Potencia los movimientos que también dañan al usuario.  — Hitmonlee, Basculin raya roja, Bouffalant, Obstagoon Starly, Staravia, Staraptor, Emboar, Mienfoo, Mienshao, Rhyhorn, Rhydon, Rhyperior
+121 Multitipo
+Multitype Cambia su tipo al de la tabla o al del cristal Z que lleve.  Arceus2 — —
+122 Don floral
+Flower Gift Si hace sol, aumenta su ataque y su defensa especial, así como los de sus aliados  Cherrim2 — —
+123 Mal sueño
+Bad Dreams Inflige daño a cualquier rival que esté dormido.  Darkrai — —
+124 Hurto
+Pickpocket Si el rival usa un movimiento de contacto al atacar, le roba el objeto.  — — Sneasel, Weavile, Seedot, Nuzleaf, Shiftry, Binacle, Barbaracle, Impidimp, Morgrem, Grimmsnarl
+125 Potencia bruta
+Sheer Force Sube la potencia de sus movimientos en detrimento de los efectos secundarios, que se ven anulados.  Mega-Camerupt, Darmanitan, Cufant, Copperajah Timburr, Gurdurr, Conkeldurr, Druddigon, Rufflet, Braviary Nidoqueen, Nidoking, Krabby, Kingler, Tauros, Totodile, Croconaw, Feraligatr, Steelix, Makuhita, Hariyama, Mawile, Trapinch, Bagon, Cranidos, Rampardos, Landorus forma avatar, Toucannon
+126 Respondón
+Contrary Invierte los cambios en las características: bajan cuando les toca subir y suben cuando les toca bajar.  — Inkay, Malamar Shuckle, Spinda, Snivy, Servine, Serperior, Fomantis, Lurantis
+127 Nerviosismo
+Unnerve Pone nervioso al rival y le impide usar bayas.  Calyrex Joltik, Galvantula, Litleo, Pyroar, Rookidee, Corvisquire, Corviknight Ekans, Arbok, Meowth, Meowth de Galar, Persian, Aerodactyl, Mewtwo, Ursaring, Houndour, Houndoom, Tyranitar, Masquerain, Vespiquen, Axew, Fraxure, Haxorus, Bewear
+128 Competitivo
+Defiant Sube mucho su ataque cuando el rival le baja las características.  Zapdos de Galar Pawniard, Bisharp Mankey, Primeape, Farfetch'd, Piplup, Prinplup, Empoleon, Purugly, Braviary, Tornadus forma avatar, Thundurus forma avatar, Passimian, Obstagoon, Falinks
+129 Flaqueza
+Defeatist Se debilita tanto cuando sus PS se ven reducidos a la mitad, que su ataque y su ataque especial bajan.  Archen, Archeops — —
+130 Cuerpo maldito
+Cursed Body Puede anular el movimiento usado en su contra.  Gengar Marowak de Alola, Frillish, Jellicent Corsola de Galar, Shuppet, Banette, Froslass, Sinistea, Polteageist, Dreepy, Drakloak, Dragapult
+131 Alma cura
+Healer A veces cura los problemas de estado de un aliado.  Mega-Audino, Spritzee, Aromatisse Audino, Alomomola, Hatenna, Hattrem, Hatterene Chansey, Blissey, Bellossom
+132 Compiescolta
+Friend Guard Reduce el daño que sufren los aliados.  — — Cleffa, Clefairy, Igglybuff, Jigglypuff, Happiny, Scatterbug, Spewpa, Vivillon2
+133 Armadura frágil
+Weak Armor Al recibir daño por un ataque físico, le baja la defensa, pero le sube mucho la velocidad.  Sinistea, Polteageist, Cursola Roggenrola, Boldore, Garbodor Onix, Omanyte, Omastar, Kabuto, Kabutops, Slugma, Magcargo, Skarmory, Dwebble, Crustle, Vanillite, Vanillish, Vanilluxe, Vullaby, Mandibuzz
+134 Metal pesado
+Heavy Metal Duplica su peso.  — Duraludon Aron, Lairon, Aggron, Bronzor, Bronzong, Cufant, Copperajah
+135 Metal liviano
+Light Metal Reduce a la mitad su peso.  — Duraludon Scizor, Beldum, Metang, Metagross, Registeel
+136 Multiescamas
+Multiscale Reduce el daño que sufre si sus PS están al máximo.  — — Dragonite, Lugia
+137 Ímpetu tóxico
+Toxic Boost Aumenta la potencia de sus ataques físicos cuando está envenenado.  — — Zangoose
+138 Ímpetu ardiente
+Flare Boost Aumenta la potencia de sus ataques especiales cuando sufre quemaduras.  — — Drifloon, Drifblim
+139 Cosecha
+Harvest Puede reutilizar varias veces una misma baya.  — — Exeggcute, Exeggutor, Exeggutor de Alola, Tropius, Phantump, Trevenant
+140 Telepatía
+Telepathy Elude los ataques de los aliados durante el combate.  — Elgyem, Beheeyem, Oranguru Wynaut, Wobbuffet, Ralts, Kirlia, Gardevoir, Meditite, Medicham, Dialga, Palkia, Giratina forma modificada, Munna, Musharna, Noibat, Noivern, Tapu Koko, Tapu Lele, Tapu Bulu, Tapu Fini, Blipbug, Dottler, Orbeetle
+141 Veleta
+Moody Una característica le sube mucho en cada turno, pero le baja otra.  — — Remoraid, Octillery, Smeargle, Snorunt, Glalie, Bidoof, Bibarel
+142 Funda
+Overcoat No le afectan las tormentas de arena, el granizo y los movimientos con polvos.  — Solosis, Duosion, Reuniclus, Vullaby, Mandibuzz Shellder, Cloyster, Pineco, Forretress, Shelgon, Burmy2, Wormadam2, Sewaddle, Swadloon, Leavanny, Escavalier, Shelmet, Jangmo-o, Hakamo-o, Kommo-o
+143 Toque tóxico
+Poison Touch Puede envenenar al objetivo con solo tocarlo.  — Grimer de Alola, Muk de Alola, Seismitoad, Skrelp, Dragalge Grimer, Muk, Croagunk, Toxicroak
+144 Regeneración
+Regenerator Recupera unos pocos PS al ser cambiado por otro Pokémon.  Tornadus forma tótem Audino, Mienfoo, Mienshao, Gossifleur, Eldegoss Slowpoke, Slowbro, Slowking, Slowpoke de Galar, Slowbro de Galar, Slowking de Galar, Tangela, Tangrowth, Corsola, Ho-Oh, Solosis, Duosion, Reuniclus, Foongus, Amoonguss, Alomomola, Mareanie, Toxapex
+145 Sacapecho
+Big Pecks Impide que el rival le baje la defensa.  Fletchling Pidove, Tranquill, Unfezant, Ducklett, Swanna, Vullaby, Mandibuzz Pidgey, Pidgeotto, Pidgeot, Chatot, Rookidee, Corvisquire
+146 Ímpetu arena
+Sand Rush Aumenta su velocidad durante las tormentas de arena.  — Herdier, Stoutland, Drilbur, Excadrill, Lycanroc diurno Sandshrew, Sandslash, Dracozolt, Dracovish
+147 Piel milagro
+Wonder Skin Presenta una mayor resistencia ante los movimientos de estado.  — Sigilyph Venomoth, Skitty, Delcatty, Bruxish
+148 Cálculo final
+Analytic Aumenta la potencia de su movimiento si es el último en atacar.  — — Magnemite, Magneton, Magnezone, Staryu, Starmie, Porygon, Porygon2, Porygon-Z, Patrat, Watchog, Elgyem, Beheeyem
+149 Ilusión
+Illusion Adopta el aspecto del último Pokémon del equipo al entrar en combate para desconcertar al rival.  Zorua, Zoroark — —
+150 Impostor
+Imposter Se transforma en el Pokémon que tiene enfrente.  — — Ditto
+151 Allanamiento
+Infiltrator Ataca sorteando la barrera o el sustituto del rival.  — Cottonee, Whimsicott, Espurr, Meowstic ♂, Meowstic ♀, Noibat, Noivern, Dreepy, Drakloak, Dragapult Zubat, Golbat, Crobat, Hoppip, Skiploom, Jumpluff, Ninjask, Seviper, Spiritomb, Litwick, Lampent, Chandelure, Inkay, Malamar
+152 Momia
+Mummy Contagia la habilidad momia al rival que entre en contacto con él.  Yamask, Cofagrigus — —
+153 Autoestima
+Moxie Al debilitar a un objetivo, su confianza se refuerza de tal manera que aumenta su ataque.  — Sandile, Krokorok, Krookodile, Scraggy, Scrafty Pinsir, Gyarados, Heracross, Mightyena, Salamence, Honchkrow, Litleo, Pyroar
+154 Justiciero
+Justified Si le alcanza un movimiento de tipo siniestro, aumenta el ataque debido a su integridad.  Cobalion, Terrakion, Virizion, Keldeo2 — Growlithe, Arcanine, Absol, Lucario, Gallade
+155 Cobardía
+Rattled Si le alcanza un movimiento de tipo siniestro, bicho o fantasma, el miedo hace que le suba la velocidad.  — Toxel Meowth de Alola, Persian de Alola, Magikarp, Ledyba, Sudowoodo, Dunsparce, Snubbull, Granbull, Poochyena, Whismur, Clamperl, Bonsly, Cubchoo, Yamper
+156 Espejo mágico
+Magic Bounce Puede devolver los movimientos de estado lanzados por el rival, sin verse afectado por ellos.  Mega-Absol, Mega-Sableye, Mega-Diancie — Natu, Xatu, Espeon, Hatenna, Hattrem, Hatterene
+157 Herbívoro
+Sap Sipper Neutraliza los movimientos de tipo planta y sube su ataque.  Skiddo, Gogoat Deerling2, Sawsbuck2, Bouffalant, Goomy, Sliggoo, Goodra, Drampa Marill, Azumarill, Girafarig, Stantler, Miltank, Azurill, Blitzle, Zebstrika
+158 Bromista
+Prankster Sus movimientos de estado tienen prioridad alta.  Mega-Banette, Tornadus forma avatar, Thundurus forma avatar, Klefki Cottonee, Whimsicott Murkrow, Sableye, Volbeat, Illumise, Riolu, Purrloin, Liepard, Meowstic ♂, Impidimp, Morgrem, Grimmsnarl
+159 Poder arena
+Sand Force Potencia los movimientos de tipo tierra, acero y roca durante las tormentas de arena.  Mega-Steelix, Mega-Garchomp, Landorus forma avatar Drilbur, Excadrill Diglett, Dugtrio, Diglett de Alola, Dugtrio de Alola, Nosepass, Probopass, Shellos2, Gastrodon2, Hippopotas, Hippowdon, Roggenrola, Boldore, Gigalith
+160 Punta acero
+Iron Barbs Inflige daño al rival si este le golpea con un movimiento de contacto.  Ferroseed, Ferrothorn Togedemaru —
+161 Modo Daruma
+Zen Mode Cambia de forma si sus PS se ven reducidos a la mitad.  — — Darmanitan, Darmanitan de Galar
+162 Tinovictoria
+Victory Star Sube su precisión y la de sus aliados.  Victini — —
+163 Turbollama
+Turboblaze Las habilidades del objetivo no afectan a los movimientos que emplea.  Reshiram, Kyurem blanco — —
+164 Terravoltaje
+Teravolt Las habilidades del objetivo no afectan a los movimientos que emplea.  Zekrom, Kyurem negro — —
+165 Velo aroma
+Aroma Veil Se protege a sí mismo y a sus aliados de ataques que impiden elegir movimientos.  — — Spritzee, Aromatisse, Milcery, Alcremie
+166 Velo flor
+Flower Veil Evita que los Pokémon de tipo planta aliados sufran problemas de estado o que les bajen sus características.  Flabébé2, Floette2, Florges2 Comfey —
+167 Carrillo
+Cheek Pouch Recupera PS al comer cualquier baya.  Skwovet, Greedent Bunnelby, Diggersby, Dedenne —
+168 Mutatipo
+Protean Cambia su tipo al del movimiento que va a usar.  — — Kecleon, Froakie, Frogadier, Greninja
+169 Pelaje recio
+Fur Coat Reduce a la mitad el daño que recibe de ataques físicos del rival.  Furfrou2 Persian de Alola —
+170 Prestidigitador
+Magician Roba el objeto del Pokémon al que alcance con un movimiento.  Hoopa2 — Fennekin, Braixen, Delphox, Klefki
+171 Antibalas
+Bulletproof No le afectan las bombas ni algunos proyectiles.  — Jangmo-o, Hakamo-o, Kommo-o Chespin, Quilladin, Chesnaught, Wooloo, Dubwool, Applin
+172 Tenacidad
+Competitive Aumenta mucho su ataque especial cuando el rival le baja cualquiera de sus características.  Articuno de Galar Igglybuff, Jigglypuff, Wigglytuff, Milotic, Gothita, Gothorita, Gothitelle Meowstic ♀, Boltund
+173 Mandíbula fuerte
+Strong Jaw Su robusta mandíbula le confiere una mordedura potente.  Mega-Sharpedo, Tyrunt, Tyrantrum, Boltund Yungoos, Gumshoos, Bruxish, Chewtle, Drednaw, Dracovish —
+174 Piel helada
+Refrigerate Convierte los movimientos de tipo normal en tipo hielo y aumenta ligeramente su potencia.  Mega-Glalie, Amaura, Aurorus — —
+175 Velo dulce
+Sweet Veil No cae dormido y evita también que sus aliados se duerman.  Swirlix, Slurpuff, Milcery, Alcremie — Cutiefly, Ribombee, Bounsweet, Steenee, Tsareena
+176 Cambio táctico
+Stance Change Adopta la forma filo al lanzar un ataque, o bien la forma escudo si usa el movimiento escudo real.  Aegislash2 — —
+177 Alas vendaval
+Gale Wings Da prioridad a los movimientos de tipo volador si sus PS están al máximo.  — — Fletchling, Fletchinder, Talonflame
+178 Megadisparador
+Mega Launcher Aumenta la potencia de algunos movimientos de pulsos y auras.  Mega-Blastoise, Clauncher, Clawitzer — —
+179 Manto frondoso
+Grass Pelt Aumenta su defensa si hay un campo de hierba en el terreno de combate.  — — Skiddo, Gogoat
+180 Simbiosis
+Symbiosis Pasa su objeto a un aliado que ya haya utilizado el suyo.  — — Flabébé2, Floette2, Florges2, Oranguru
+181 Garra dura
+Tough Claws Aumenta la potencia de los movimientos de contacto.  Mega-Charizard X, Mega-Aerodactyl, Mega-Metagross, Lycanroc crepuscular Meowth de Galar, Perrserker, Binacle, Binacle, Barbaracle —
+182 Piel feérica
+Pixilate Convierte los movimientos de tipo normal en tipo hada y aumenta ligeramente su potencia.  Mega-Gardevoir, Mega-Altaria — Sylveon
+183 Baba
+Gooey Baja la velocidad del rival cuando este le ataca con un movimiento de contacto.  — — Goomy, Sliggoo, Goodra
+184 Piel celeste
+Aerilate Convierte los movimientos de tipo normal en tipo volador y aumenta ligeramente su potencia.  Mega-Pinsir, Mega-Salamence — —
+185 Amor filial
+Parental Bond Une fuerzas con su cría y ataca dos veces.  Mega-Kangaskhan — —
+186 Aura oscura
+Dark Aura Aumenta la potencia de todos los movimientos de tipo siniestro.  Yveltal — —
+187 Aura feérica
+Fairy Aura Aumenta la potencia de todos los movimientos de tipo hada.  Xerneas — —
+188 Rompeaura
+Aura Break Invierte los efectos de las auras, por lo que baja la potencia de ciertos movimientos en vez de subirla.  Zygarde al 10%, Zygarde al 50% — —
+189 Mar del albor
+Primordial Sea Altera el clima para anular los ataques de tipo fuego.  Kyogre primigenio — —
+190 Tierra del ocaso
+Desolate Land Altera el clima para anular los ataques de tipo agua.  Groudon primigenio — —
+191 Ráfaga delta
+Delta Stream Altera el clima para anular las vulnerabilidades del tipo volador.  Mega-Rayquaza — —
+192 Firmeza
+Stamina Aumenta su defensa al recibir un ataque.  — Mudbray, Mudsdale —
+193 Huida
+Wimp Out Se asusta y abandona el terreno de combate cuando sus PS se ven reducidos a la mitad.  Wimpod — —
+194 Retirada
+Emergency Exit Abandona el terreno de combate cuando sus PS se ven reducidos a la mitad para evitar males mayores.  Golisopod — —
+195 Hidrorrefuerzo
+Water Compaction Aumenta mucho la defensa si le alcanza un movimiento de tipo agua.  Sandygast, Palossand — —
+196 Ensañamiento
+Merciless Hace que sus movimientos asesten siempre un golpe crítico si el rival está envenenado.  — Mareanie, Toxapex —
+197 Escudo limitado
+Shields Down Rompe su coraza cuando sus PS se ven reducidos a la mitad y adopta una forma ofensiva.  Minior2 — —
+198 Vigilante
+Stakeout Si el objetivo de su ataque es sustituido por otro, duplica el daño que infligirá.  — Yungoos, Gumshoos Nickit, Thievul
+199 Pompa
+Water Bubble Reduce el daño que le provocan los movimientos de tipo fuego y es inmune a las quemaduras.  Dewpider, Araquanid — —
+200 Acero templado
+Steelworker Potencia los movimientos de tipo acero.  Dhelmise — —
+201 Cólera
+Berserk Aumenta el ataque especial si los ataques del oponente le reducen los PS a la mitad debido a algún ataque.  Moltres de Galar Drampa —
+202 Quitanieves
+Slush Rush Aumenta su velocidad si está granizando.  — Cubchoo, Beartic Sandshrew de Alola, Sandslash de Alola, Arctozolt, Arctovish
+203 Remoto
+Long Reach Puede usar cualquier movimiento sin entrar en contacto con el rival.  — — Rowlet, Dartrix, Decidueye
+204 Voz fluida
+Liquid Voice Hace que todos sus movimientos que usan sonido pasen a ser de tipo agua.  — — Popplio, Brionne, Primarina
+205 Primer auxilio
+Triage Da prioridad a los movimientos que restauran PS.  — Comfey —
+206 Piel eléctrica
+Galvanize Convierte los movimientos de tipo normal en tipo eléctrico y aumenta ligeramente su potencia.  — — Geodude de Alola, Graveler de Alola, Golem de Alola
+207 Cola surf
+Surge Surfer Duplica su velocidad si hay un campo eléctrico en el terreno de combate.  Raichu de Alola — —
+208 Banco
+Schooling Forma bancos con sus congéneres cuando tiene muchos PS, lo cual le otorga más fuerza. Cuando le quedan pocos PS, el banco se dispersa.  Wishiwashi2 — —
+209 Disfraz
+Disguise Puede eludir un ataque valiéndose de la tela que le cubre el cuerpo una vez por combate.  Mimikyu2 — —
+210 Fuerte afecto
+Battle Bond Al derrotar a un rival, los vínculos con su entrenador se refuerzan y se convierte en Greninja Ash. Su shuriken de agua también se ve potenciado.  Greninja — —
+211 Agrupamiento
+Power Construct Cuando sus PS se ven reducidos a la mitad, las células se reagrupan y adopta su forma completa.  Zygarde al 10%, Zygarde al 50%, Zygarde forma completa — —
+212 Corrosión
+Corrosion Puede envenenar incluso a rivales de tipo acero o veneno.  Salandit, Salazzle — —
+213 Letargo perenne
+Comatose No despierta jamás de su profundo letargo e incluso ataca dormido.  Komala — —
+214 Regia presencia
+Queenly Majesty Intimida al objetivo y le impide usar movimientos con prioridad.  — Tsareena —
+215 Revés
+Innards Out Al caer debilitado, inflige al rival un daño equivalente a los PS que le quedaran.  Pyukumuku — —
+216 Pareja de baile
+Dancer Puede copiar inmediatamente cualquier movimiento de baile que haya usado otro Pokémon presente en el combate.  Oricorio2 — —
+217 Batería
+Battery Potencia los movimientos especiales de los aliados.  Charjabug — —
+218 Peluche
+Fluffy Reduce a la mitad el daño provocado por los movimientos de contacto, pero duplica el infligido por los de tipo fuego.  — Stufful, Bewear, Wooloo, Dubwool —
+219 Cuerpo vívido
+Dazzling Desconcierta al rival y le impide utilizar movimientos con prioridad en su contra.  — Bruxish —
+220 Coránima
+Soul-Heart Aumenta su ataque especial cada vez que un Pokémon cae debilitado.  Magearna2 — —
+221 Rizos rebeldes
+Tangling Hair Baja la velocidad del rival cuando este le ataca con un movimiento de contacto.  — Diglett de Alola, Dugtrio de Alola —
+222 Receptor
+Receiver Adquiere la habilidad de un aliado debilitado.  Passimian — —
+223 Reacción química
+Power of Alchemy Reacciona copiando la habilidad de un aliado debilitado.  — — Grimer de Alola, Muk de Alola
+224 Ultraimpulso
+Beast Boost Si derrota a un rival en ese turno, aumenta su característica más fuerte.  Nihilego, Buzzwole, Pheromosa, Xurkitree, Kartana, Celesteela, Guzzlord, Poipole, Naganadel, Stakataka, Blacephalon — —
+225 Sistema alfa
+RKS System Cambia su tipo según el disco que lleve instalado.  Silvally2 — —
+226 Electrogénesis
+Electric Surge Crea un campo eléctrico al entrar en combate.  Tapu Koko — Pincurchin
+227 Psicogénesis
+Psychic Surge Crea un campo psíquico al entrar en combate.  Tapu Lele — Indeedee ♂, Indeedee ♀
+228 Nebulogénesis
+Misty Surge Crea un campo de niebla al entrar en combate.  Tapu Fini — Weezing de Galar
+229 Herbogénesis
+Grassy Surge Crea un campo de hierba al entrar en combate.  Tapu Bulu — Grookey, Thwackey, Rillaboom
+230 Guardia metálica
+Full Metal Body Evita que bajen sus características a causa de movimientos o habilidades de otros Pokémon.  Solgaleo — —
+231 Guardia espectro
+Shadow Shield Reduce el daño que sufre si sus PS están al máximo.  Lunala — —
+232 Armadura prisma
+Prism Armor Mitiga el daño que le infligen los movimientos supereficaces.  Necrozma, Necrozma melena crespuscular, Necrozma alas del alba — —
+233 Fuerza cerebral
+Neuroforce Potencia los ataques supereficaces.  Ultra-Necrozma — —
+234 Espada indómita
+Intrepid Sword Aumenta su ataque al entrar en combate.  Zacian — —
+235 Escudo recio
+Dauntless Shield Aumenta su defensa al entrar en combate.  Zamazenta — —
+236 Líbero
+Libero Cambia su tipo al del movimiento que va a usar.  — — Scorbunny, Raboot, Cinderace
+237 Recogebolas
+Ball Fetch Si no lleva equipado ningún objeto, recupera la Poké Ball del primer intento de captura fallido.  Yamper — —
+238 Pelusa
+Cotton Down Al ser alcanzado por un ataque, suelta una pelusa de algodón que reduce la velocidad de todos los demás Pokémon.  — Gossifleur, Eldegoss —
+239 Hélice caudal
+Propeller Tail Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos.  — — Arrokuda, Barraskewda
+240 Coraza reflejo
+Mirror Armor Refleja los efectos que reducen las características.  — — Corviknight
+241 Tragamisil
+Gulp Missile Tras usar surf o buceo, emerge con una presa en la boca. Al recibir daño, ataca escupiéndola al rival.  Cramorant — —
+242 Acérrimo
+Stalwart Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos.  — — Duraludon
+243 Combustible
+Steam Engine Si le alcanza un movimiento de tipo fuego o tipo agua, le sube muchísimo la velocidad.  — Rolycoly, Carkol, Coalossal —
+244 Punk rock
+Punk Rock Potencia los movimientos que usan sonido y reduce a la mitad el daño que le infligen dichos movimientos.  — Toxtricity aguda, Toxtricity grave —
+245 Expulsarena
+Sand Spit Provoca una tormenta de arena al recibir un ataque.  — Silicobra, Sandaconda —
+246 Escama de hielo
+Ice Scales Las gélidas escamas que protegen su cuerpo reducen a la mitad el daño que le infligen los ataques especiales.  — — Snom, Frosmoth
+247 Maduración
+Ripen Hace madurar las bayas, por lo que duplica sus efectos.  — Applin, Flapple, Appletun —
+248 Cara de hielo
+Ice Face Absorbe el daño de un ataque físico con el hielo de la cabeza, tras lo cual cambia de forma. El hielo se regenerará la próxima vez que granice.  Eiscue2 — —
+249 Fuente energía
+Power Spot Potencia los movimientos de los Pokémon adyacentes.  Stonjourner — —
+250 Mimetismo
+Mimicry Cambia su tipo según el campo que haya en el terreno de combate.  Stunfisk de Galar — —
+251 Antibarrera
+Screen Cleaner Anula los efectos de pantalla de luz, reflejo y velo aurora tanto de rivales como de aliados al entrar en combate.  — Mr. Mime de Galar, Mr. Rime —
+252 Alma acerada
+Steely Spirit Potencia los movimientos de tipo acero de los aliados.  — — Perrserker
+253 Cuerpo mortal
+Perish Body Si le alcanza un movimiento de contacto, se debilitará al cabo de 3 turnos, así como su agresor, a menos que abandonen el terreno de combate.  — — Cursola
+254 Alma errante
+Wandering Spirit Si le alcanza un movimiento de contacto, intercambia su habilidad con la del agresor.  Yamask de Galar, Runerigus — —
+255 Monotema
+Gorilla Tactics Potencia su ataque, pero solo puede usar el primer movimiento escogido.  Darmanitan de Galar — —
+256 Gas reactivo
+Neutralizing Gas Anula los efectos de las habilidades de los demás Pokémon presentes mientras esté en el terreno de combate.  — Koffing, Weezing, Weezing de Galar —
+257 Velo pastel
+Pastel Veil Se protege a sí mismo y a sus aliados del envenenamiento.  — Ponyta de Galar, Rapidash de Galar —
+258 Mutapetito
+Hunger Switch Alterna entre su forma saciada y forma voraz al final de cada turno.  Morpeko2 — —
+259 Mano rápida
+Quick Draw A veces, puede atacar el primero.  — Slowbro de Galar —
+260 Puño invisible
+Unseen Fist Si usa un movimiento de contacto, puede infligir daño al objetivo aunque este se proteja.  Urshifu2 — —
+261 Medicina extraña
+Curious Medicine Al entrar en combate, rezuma una substancia medicinal por la caracola que revierte los cambios en las características de los aliados.  — Slowking de Galar —
+262 Transistor
+Transistor Potencia los movimientos de tipo eléctrico  Regieleki — —
+263 Mandíbula dragón
+Dragon's Maw Potencia los movimientos de tipo dragón  Regidrago — —
+264 Relincho blanco
+Chilling Neigh Al derrotar a un objetivo, emite un relincho gélido y aumenta su ataque  Glastrier — —
+265 Relincho negro
+Grim Neigh Al derrotar a un objetivo, emite un relincho aterrador y aumenta su ataque especial  Spectrier — —
+267 Unidad ecuestre
+As One El Pokémon tiene dos habilidades: relincho negro de Spectrier y nerviosismo de Calyrex  Calyrex jinete espectral — —

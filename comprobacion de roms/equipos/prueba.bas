@@ -21,7 +21,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 Spe
 - Blizzard  
 
 JonCena (Hariyama)  
-Ability: Air Lock  
+Ability: Pure Power  
 Level: 50  
 EVs: 180 Def / 4 SpA / 172 SpD / 152 Spe  
 Timid Nature  

@@ -164,7 +164,7 @@ Cuchillada:Slash
 Sustituto:Substitute 
 Forcejeo:Struggle 
 Esquema:Sketch 
-Triple Patada:Triple Kick 
+Triplepatada:Triple Kick 
 Ladrón:Thief 
 Telaraña:Spider Web 
 Telépata:Mind Reader 
