@@ -1,6 +1,6 @@
 Crobat  
 Ability: LIGHTNING Rod  
-Level: 100
+Level: 50
 EVs: 68 HP / 28 Atk / 140 Def / 52 SpA / 188 SpD / 28 Spe  
 Naughty Nature  
 IVs: 30 SpA  

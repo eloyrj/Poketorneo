@@ -1,10 +1,10 @@
 
 from cProfile import label
 from math import fabs
-import mmap
-import sys
 from tkinter import *
 from tkinter import filedialog
+from PIL import ImageTk, Image
+
 
 
 from matplotlib.pyplot import title
@@ -25,7 +25,7 @@ def abrirEquipo():
     rutaLectura= archivo
 
 def cargarDiccionario(ruta):
-    with open(ruta, 'r') as archivo:
+    with open( ruta, 'r',encoding='utf-8') as archivo:
         separador = ':'
         data = {}
         
@@ -36,7 +36,7 @@ def cargarDiccionario(ruta):
     return data
 
 def cargarDiccionarios():
-    return  cargarDiccionario('archivos/diccionario.txt'),cargarDiccionario('archivos/naturaleza.txt') , cargarDiccionario('archivos/habilidades.txt')
+    return  cargarDiccionario("diccionario.txt"),cargarDiccionario("naturaleza.txt"),cargarDiccionario("habilidades.txt")
 
 def compruebaMT(ataque):
     f2 = open(rutaLog,"r",encoding='utf-8')
@@ -50,7 +50,8 @@ def compruebaMT(ataque):
     return False,mt
 
 def generarArchivoConData():
-
+    nivellb.config(text=" ")
+    lb1.config(text=" ")
     PokemonAparece = False
     ataquesCorrectos = False
     naturalezaCorrecta = False
@@ -80,7 +81,7 @@ def generarArchivoConData():
             pokemon = sete[0]
             
         evoluciones = []
-        with open("archivos/evolucionesOrden.txt", 'r') as archivo:
+        with open("evolucionesOrden.txt", 'r') as archivo:
         
             for linea in archivo:
                 if linea.find(pokemon)>=0:
@@ -313,88 +314,70 @@ diccionarioHabilidades=c[2]
 
 interfaz = Tk()
 interfaz.title("Comprobacin De Roms")
-interfaz.resizable(True, True)
+interfaz.resizable(False, False)
 interfaz.geometry('800x500')
+interfaz.wm_attributes('-transparentcolor', '#ab23ff')
 
+bg = ImageTk.PhotoImage( Image.open("fondo.jpeg")) 
+label1 = Label( interfaz, image = bg) 
+label1.place(x = 0, y = 0, relwidth = 1, relheight = 1)
 
-lb1 = Label(interfaz,text="")
-lb1.grid(column=1,row=2)
-nivellb = Label(interfaz,text="")
-nivellb.grid(column=2,row=0)
+lb1 = Label(interfaz,text=" ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb1.place(width=300,height=33, x=267,y=41)
 
-btn=Button(interfaz, text='Seleccion de Log',command=abrirLog,).grid(column=0,row=0)
+nivellb = Label(interfaz,text=" ",bg='#546e91',fg='white',font=("Century gothic", 13))
+nivellb.place(width=300,height=33, x=355,y=0)
 
-btn1=Button(interfaz, text='Seleccion de Equipo',command=abrirEquipo).grid(column=1,row=0)
-btn2=Button(interfaz, text='Comprobar Equipo ',command=generarArchivoConData).grid(column=0,row=2)
+imbutton = ImageTk.PhotoImage( Image.open("btnLog.png")) 
+btn=Button(interfaz, text='Seleccion de Log',image=imbutton,command=abrirLog)
+btn.place(width=162,height=35, x=0,y=0)
 
-lb2 = Label(interfaz,text="Naturaleza Pokemon 1:")
-lb3 = Label(interfaz,text="Naturaleza Pokemon 2:")
-lb4 = Label(interfaz,text="Naturaleza Pokemon 3:")
-lb5 = Label(interfaz,text="Naturaleza Pokemon 4:")
-lb6 = Label(interfaz,text="Naturaleza Pokemon 5:")
-lb7 = Label(interfaz,text="Naturaleza Pokemon 6:")
-lb8 = Label(interfaz,text="Naturaleza Pokemon 7:")
-lb9 = Label(interfaz,text="Naturaleza Pokemon 8:")
-lb2.grid(column=0,row=3)
-lb3.grid(column=0,row=4)
-lb4.grid(column=0,row=5)
-lb5.grid(column=0,row=6)
-lb6.grid(column=0,row=7)
-lb7.grid(column=0,row=8)
-lb8.grid(column=0,row=9)
-lb9.grid(column=0,row=10)
+imbutton1 = ImageTk.PhotoImage( Image.open("btnEqui.png")) 
+btn1=Button(interfaz, text='Seleccion de Equipo',image=imbutton1,command=abrirEquipo)
+btn1.place(width=188,height=35, x=165,y=0)
 
-lb10 = Label(interfaz,text=" ")
-lb11 = Label(interfaz,text=" ")
-lb12 = Label(interfaz,text=" ")
-lb13 = Label(interfaz,text=" ")
-lb14 = Label(interfaz,text=" ")
-lb15 = Label(interfaz,text=" ")
-lb16 = Label(interfaz,text=" ")
-lb17 = Label(interfaz,text=" ")
-lb10.grid(column=1,row=3)
-lb11.grid(column=1,row=4)
-lb12.grid(column=1,row=5)
-lb13.grid(column=1,row=6)
-lb14.grid(column=1,row=7)
-lb15.grid(column=1,row=8)
-lb16.grid(column=1,row=9)
-lb17.grid(column=1,row=10)
+imbutton2 = ImageTk.PhotoImage( Image.open("btnCom.png")) 
+btn2=Button(interfaz, text='Comprobar Equipo ',image=imbutton2,command=generarArchivoConData)
+btn2.place(width=195,height=35, x=72,y=41)
+
+lb10 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb11 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb12 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb13 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb14 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb15 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb16 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb17 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb10.place(width=100,height=20, x=160,y=132)
+lb11.place(width=100,height=20, x=160,y=156)
+lb12.place(width=100,height=20, x=160,y=180)
+lb13.place(width=100,height=20, x=160,y=204)
+lb14.place(width=100,height=20, x=160,y=228)
+lb15.place(width=100,height=20, x=160,y=252)
+lb16.place(width=100,height=20, x=160,y=276)
+lb17.place(width=100,height=20, x=160,y=300)
 lbs = [lb10,lb11,lb12,lb13,lb14,lb15,lb16,lb17]
 
-lb18 = Label(interfaz,text="MT Pokemon 1:")
-lb19 = Label(interfaz,text="MT Pokemon 2:")
-lb20 = Label(interfaz,text="MT Pokemon 3:")
-lb21 = Label(interfaz,text="MT Pokemon 4:")
-lb22 = Label(interfaz,text="MT Pokemon 5:")
-lb23 = Label(interfaz,text="MT Pokemon 6:")
-lb24 = Label(interfaz,text="MT Pokemon 7:")
-lb25 = Label(interfaz,text="MT Pokemon 8:")
-lb18.grid(column=2,row=3)
-lb19.grid(column=2,row=4)
-lb20.grid(column=2,row=5)
-lb21.grid(column=2,row=6)
-lb22.grid(column=2,row=7)
-lb23.grid(column=2,row=8)
-lb24.grid(column=2,row=9)
-lb25.grid(column=2,row=10)
-lb26 = Label(interfaz,text=" ")
-lb27 = Label(interfaz,text=" ")
-lb28 = Label(interfaz,text=" ")
-lb29 = Label(interfaz,text=" ")
-lb30 = Label(interfaz,text=" ")
-lb31 = Label(interfaz,text=" ")
-lb32 = Label(interfaz,text=" ")
-lb33 = Label(interfaz,text=" ")
-lb26.grid(column=3,row=3)
-lb27.grid(column=3,row=4)
-lb28.grid(column=3,row=5)
-lb29.grid(column=3,row=6)
-lb30.grid(column=3,row=7)
-lb31.grid(column=3,row=8)
-lb32.grid(column=3,row=9)
-lb33.grid(column=3,row=10)
+
+lb26 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb27 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb28 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb29 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb30 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb31 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb32 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb33 = Label(interfaz,text="  ",bg='#546e91',fg='white',font=("Century gothic", 13))
+lb26.place(width=100,height=20, x=520,y=132)
+lb27.place(width=100,height=20, x=520,y=156)
+lb28.place(width=100,height=20, x=520,y=180)
+lb29.place(width=100,height=20, x=520,y=204)
+lb30.place(width=100,height=20, x=520,y=228)
+lb31.place(width=100,height=20, x=520,y=252)
+lb32.place(width=100,height=20, x=520,y=276)
+lb33.place(width=100,height=20, x=520,y=300)
 mtslb = [lb26,lb27,lb28,lb29,lb30,lb31,lb32,lb33]
+
+
 
 interfaz.mainloop()
 
