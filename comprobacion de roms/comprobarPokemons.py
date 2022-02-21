@@ -4,11 +4,9 @@ from math import fabs
 from tkinter import *
 from tkinter import filedialog
 from PIL import ImageTk, Image
-
-
-
-from matplotlib.pyplot import title
-
+import os
+print(os.path.abspath(os.getcwd()))
+rutaGeneral = os.path.abspath(os.getcwd())
 
 rutaLog =""
 rutaLectura =""
@@ -36,7 +34,7 @@ def cargarDiccionario(ruta):
     return data
 
 def cargarDiccionarios():
-    return  cargarDiccionario("diccionario.txt"),cargarDiccionario("naturaleza.txt"),cargarDiccionario("habilidades.txt")
+    return  cargarDiccionario(rutaGeneral + "/diccionario.txt"),cargarDiccionario(rutaGeneral + "/naturaleza.txt"),cargarDiccionario(rutaGeneral +"/habilidades.txt")
 
 def compruebaMT(ataque):
     f2 = open(rutaLog,"r",encoding='utf-8')
@@ -59,7 +57,7 @@ def generarArchivoConData():
     
     
     f1 = open(rutaLectura)
-    salida = open("salida.txt","w",encoding="utf-8")
+    salida = open(rutaGeneral + "/salida.txt","w",encoding="utf-8")
 
     f2 = open(rutaLog,"r",encoding='utf-8')
     with f2 as myfile:
@@ -81,7 +79,7 @@ def generarArchivoConData():
             pokemon = sete[0]
             
         evoluciones = []
-        with open("evolucionesOrden.txt", 'r') as archivo:
+        with open(rutaGeneral + "/evolucionesOrden.txt", 'r') as archivo:
         
             for linea in archivo:
                 if linea.find(pokemon)>=0:
@@ -316,7 +314,6 @@ interfaz = Tk()
 interfaz.title("Comprobacin De Roms")
 interfaz.resizable(False, False)
 interfaz.geometry('800x500')
-interfaz.wm_attributes('-transparentcolor', '#ab23ff')
 
 bg = ImageTk.PhotoImage( Image.open("fondo.jpeg")) 
 label1 = Label( interfaz, image = bg) 
