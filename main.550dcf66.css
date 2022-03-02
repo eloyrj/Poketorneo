@@ -5286,17 +5286,13 @@ body .btn-bg.Pokemon .btn-group .ball button a span:nth-child(2)::before {
     width: 90%;
     margin: auto;
     display: grid;
-
+    align-self: center;
+    justify-self: center;
 }
 
 .continerbotones {
-    
-    
-    
     align-self: center;
     justify-self: center;
-
-
 }
 
 .contenedorInfo {
@@ -5305,22 +5301,17 @@ body .btn-bg.Pokemon .btn-group .ball button a span:nth-child(2)::before {
 }
 
 .contenedorLue {
-    
-    
     align-self: center;
     justify-self: center;
-
-    
-
 
 }
 
 .contenedorRedes {
     
     margin-top: 3px;
-    width: 10%;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr ;
+    width: 13%;
+    display: flex;
+    flex-wrap: wrap;
     gap: 5px;
     align-self: center;
     justify-self: center;
