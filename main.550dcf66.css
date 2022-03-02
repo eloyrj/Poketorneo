@@ -5339,6 +5339,16 @@ body .btn-bg.Pokemon .btn-group .ball button a span:nth-child(2)::before {
     grid-row: 1;
 }
 
+.contImg{
+    width: 90%;
+    margin: auto;
+    gap: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-self: center;
+    justify-self: center;
+
+}
 
 
 
