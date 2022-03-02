@@ -4771,6 +4771,8 @@ button.close {
 
 .footer-container {
     background-image: url(./assets/images/wave-footer.svg);
+    width: 100%;
+    height: auto;
     padding: 60px 0;
     margin-top: 30px
 }
