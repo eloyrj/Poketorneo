@@ -5309,9 +5309,10 @@ body .btn-bg.Pokemon .btn-group .ball button a span:nth-child(2)::before {
 .contenedorRedes {
     
     margin-top: 3px;
-    width: 13%;
+    
     display: flex;
     flex-wrap: wrap;
+
     gap: 5px;
     align-self: center;
     justify-self: center;
