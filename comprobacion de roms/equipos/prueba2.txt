@@ -1,0 +1,60 @@
+203 (Dialga)  
+Ability: Intimidate  
+Level: 50  
+EVs: 54 HP / 10 Atk / 54 Def / 41 SpA / 32 SpD / 10 Spe  
+IVs: 24 HP / 22 Atk / 24 Def / 24 SpA / 25 SpD / 23 Spe  
+- Shadow Ball  
+- Crunch  
+- Magic Coat  
+- Wake-Up Slap  
+
+mina (Cyndaquil)  
+Ability: Klutz  
+Level: 50  
+EVs: 84 HP / 100 Def / 12 SpD / 54 Spe  
+IVs: 26 HP / 25 Atk / 25 Def / 24 SpA / 26 SpD / 25 Spe  
+- Assist  
+- Acid Armor  
+- Fire Blast  
+
+Mewtwo  
+Ability: Iron Fist  
+Level: 50  
+EVs: 10 HP / 54 Atk / 75 SpA  
+IVs: 24 HP / 24 Atk / 25 Def / 24 SpA / 24 SpD / 24 Spe  
+- Soft-Boiled  
+- Psycho Cut  
+- Metal Claw  
+
+Pidgeotto  
+Ability: Stall  
+Level: 50  
+EVs: 10 HP / 54 Atk  
+IVs: 27 HP / 26 Atk / 27 Def / 27 SpA / 27 SpD / 27 Spe  
+- Skill Swap  
+- Solar Beam  
+- Guillotine  
+- Leech Life  
+
+Marshtomp  
+Ability: Iron Fist  
+Level: 50  
+EVs: 45 HP / 65 Atk  
+IVs: 27 HP / 27 Atk / 27 Def / 27 SpA / 28 SpD / 27 Spe  
+- Detect  
+- Thunder Punch  
+- Charm  
+- Covet  
+
+valle eolico (Dusclops)  
+Ability: Forecast  
+Level: 50  
+EVs: 45 HP  
+IVs: 26 HP / 28 Atk / 25 Def / 27 SpA / 27 SpD / 25 Spe  
+- Flame Wheel  
+- Leaf Blade  
+- Chatter  
+- Dragon Pulse  
+
+
+

@@ -1,0 +1,51 @@
+201 (Rayquaza)  
+Ability: Poison Heal  
+EVs: 100 HP / 54 Atk / 87 Def / 10 SpA / 54 SpD / 100 Spe  
+IVs: 24 HP / 25 Atk / 27 Def / 25 SpA / 23 SpD / 22 Spe  
+- Water Gun  
+- Luster Purge  
+- Block  
+- Hyper Fang  
+
+201 (Magmar)  
+Ability: Snow Warning  
+EVs: 10 HP / 54 Atk / 10 Def / 54 SpA / 87 SpD / 100 Spe  
+- Spore  
+- Rock Smash  
+- Ominous Wind  
+- Hyper Voice  
+
+202 (Moltres)  
+Ability: Sturdy  
+EVs: 10 HP / 54 Atk / 87 Def / 21 SpA / 110 SpD / 12 Spe  
+IVs: 23 HP / 0 Atk / 25 Def / 24 SpA / 25 SpD / 25 Spe  
+- Trick  
+- Ice Beam  
+- Morning Sun  
+- Uproar  
+
+203 (Dialga)  
+Ability: Intimidate  
+EVs: 54 HP / 10 Atk / 54 Def / 41 SpA / 32 SpD / 10 Spe  
+IVs: 24 HP / 22 Atk / 24 Def / 24 SpA / 25 SpD / 23 Spe  
+- Shadow Ball  
+- Crunch  
+- Magic Coat  
+- Wake-Up Slap  
+
+mina (Cyndaquil)  
+Ability: Klutz  
+EVs: 84 HP / 100 Def / 12 SpD / 54 Spe  
+IVs: 26 HP / 25 Atk / 25 Def / 24 SpA / 26 SpD / 25 Spe  
+- Assist  
+- Acid Armor  
+- Fire Blast  
+
+Mewtwo  
+Ability: Iron Fist  
+EVs: 10 HP / 54 Atk / 75 SpA  
+IVs: 24 HP / 24 Atk / 25 Def / 24 SpA / 24 SpD / 24 Spe  
+- Soft-Boiled  
+- Psycho Cut  
+- Metal Claw  
+

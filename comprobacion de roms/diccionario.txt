@@ -155,7 +155,7 @@ Golpes Furia:Fury Swipes
 Huesomerang:Bonemerang 
 Descanso:Rest 
 Avalancha:Rock Slide 
-Hipercolmillo:Hyper Fang 
+Hip.Colmillo:Hyper Fang 
 Afilar:Sharpen 
 Conversión:Conversion 
 Triataque:Tri Attack 

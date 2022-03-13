@@ -177,6 +177,12 @@ def generarArchivoConData():
         for h in evoluciones:
             pokemon = h.upper()
             
+            print(pokemon)
+            print(ataque1)
+            print(ataque2)
+            print(ataque3)
+            print(ataque4)
+            
             f2 = open(rutaLog,"r",encoding='utf-8')
             
             lines = f2.readlines()[1944:2501]
@@ -198,7 +204,7 @@ def generarArchivoConData():
             if(encontrado):
 
                 f2 = open(rutaLog,"r",encoding='utf-8')
-                lines = f2.readlines()[520:1012]
+                lines = f2.readlines()[520:1023]
                 for line in lines:
                     NumeroLinea = NumeroLinea + 1
                     PosicionTexto = line.find(pokemon)
@@ -207,6 +213,7 @@ def generarArchivoConData():
                         salida.write(s)
                         salida.write(" --> ")
                         salida.write(line)
+                        
                         
                         
                         if line.find(ataque1)>=0: 
@@ -292,6 +299,9 @@ def generarArchivoConData():
             lb1.config(text="El Equipo NO Es Valido")
             print(False)
             return False
+        
+        if(HabilidadCorrecta and ataquesCorrectos and PokemonAparece and nivelValido):
+            break
         
                 
         
