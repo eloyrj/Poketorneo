@@ -5301,9 +5301,9 @@ body .btn-bg.Pokemon .btn-group .ball button a span:nth-child(2)::before {
 }
 
 .contenedorLue {
+    
     align-self: center;
     justify-self: center;
-
 }
 
 .contenedorRedes {
@@ -5313,7 +5313,8 @@ body .btn-bg.Pokemon .btn-group .ball button a span:nth-child(2)::before {
     display: flex;
     flex-wrap: wrap;
 
-    gap: 5px;
+    gap: 5px;align-self: center;
+    justify-self: center;
     align-self: center;
     justify-self: center;
 
@@ -5350,6 +5351,67 @@ body .btn-bg.Pokemon .btn-group .ball button a span:nth-child(2)::before {
 
 }
 
+li.game{
+    padding-left:7px;
+    font-size: 1.7vh;
+  }
+  
+    li.game.winner{
+      font-weight:bold;
+      
+    }
+    li.game span{
+      float:left;
+      margin-right:5px;
+    }
+  
+    li.game-top{ border-bottom:1px solid #aaa; }
+  
+    li.game-spacer{ 
+      border-right:1px solid #aaa;
+      min-height:40px;
+    }
+    li.game-spacerLeft{ 
+        border-left:1px solid #aaa;
+        min-height:40px;
+      }
+  
+    li.game-bottom{ 
+      border-top:1px solid #aaa;
+    }
+
+    main{
+        display:flex;
+        flex-direction:row;
+        justify-content: center;
+        justify-items: center;
+      }
+      .round{
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        width: 15%;
+        list-style:none;
+        padding:0;
+      }
+        .round .spacer{ flex-grow:1; }
+        .round .spacer:first-child,
+        .round .spacer:last-child{ flex-grow:.5; }
+      
+        .round .game-spacer{
+          flex-grow:1;
+        }
+        .round .game-spacerLeft{
+            flex-grow:1;
+          }
+      
+.contnedorCuadro{
+    width: 90%;
+    margin: auto;
+    align-self: center;
+    justify-self: center;
+
+}
 
 
 

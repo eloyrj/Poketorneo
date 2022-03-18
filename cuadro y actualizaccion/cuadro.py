@@ -1,9 +1,14 @@
+from ast import Try
 from cProfile import label
+import json
 from math import fabs
 from tkinter import *
 from tkinter import filedialog
+import traceback
+from xml.etree.ElementPath import ops
 from PIL import ImageTk, Image
 import os
+from cupshelpers import Printer
 from matplotlib.pyplot import text
 import openpyxl
 import random
@@ -13,6 +18,7 @@ rutaGeneral = os.path.abspath(os.getcwd())
 
 rutaExcel =""
 lbs = []
+participantes = []
 
 
 def abrirExcel():
@@ -25,7 +31,7 @@ def leerRandomizar():
     global lbs
     excel_document = openpyxl.load_workbook(rutaExcel)
     sheet = excel_document['Respuestas de formulario 1']
-    participantes = []
+    global participantes
     counter = 2
     for i in range(64):
         valor ='E'+str(counter)
@@ -36,6 +42,14 @@ def leerRandomizar():
         lbs[i].config(text=participantes[i])
     
     print(participantes)
+    
+def ponerJugadores():
+    global lbs
+    global participantes
+    for i in range(64):
+        lbs[i].config(text=participantes[i])
+    
+    
     
 
 
@@ -73,7 +87,23 @@ for i in range(32,64):
         altura += factorSuma +5;
     else:
         altura += factorSuma ;
+
+with open('data.json') as file:
+    try:
+        participantes = json.load(file)
+        print(participantes)
+        ponerJugadores()
+        
+    except:
+        print("no se pudo cargar el log")
+        
+
+    
+
     
 
 interfaz.mainloop()
+
+with open('data.json', 'w') as file:
+    json.dump(participantes,file)
 
