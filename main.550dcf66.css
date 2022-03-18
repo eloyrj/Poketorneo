@@ -5410,6 +5410,10 @@ li.game{
     margin: auto;
     align-self: center;
     justify-self: center;
+    font-family:sans-serif;
+  font-size:small;
+  padding:7px;
+  line-height:1em;
 
 }
 
