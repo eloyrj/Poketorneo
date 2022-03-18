@@ -5396,7 +5396,7 @@ li.game{
       }
         .round .spacer{ flex-grow:1; }
         .round .spacer:first-child,
-        .round .spacer:last-child{ flex-grow:.5; }
+        .round .spacer:last-child{ flex-grow:.9; }
       
         .round .game-spacer{
           flex-grow:1;
