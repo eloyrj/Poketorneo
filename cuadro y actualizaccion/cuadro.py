@@ -88,14 +88,15 @@ for i in range(32,64):
     else:
         altura += factorSuma ;
 
-with open('data.json') as file:
-    try:
+try:
+    with open('data.json') as file:
+    
         participantes = json.load(file)
         print(participantes)
         ponerJugadores()
         
-    except:
-        print("no se pudo cargar el log")
+except:
+    print("no se pudo cargar el log")
         
 
     
