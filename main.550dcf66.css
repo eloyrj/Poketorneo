@@ -5349,6 +5349,7 @@ body .btn-bg.Pokemon .btn-group .ball button a span:nth-child(2)::before {
     align-self: center;
     justify-self: center;
 
+
 }
 
 li.game{
@@ -5369,11 +5370,11 @@ li.game{
   
     li.game-spacer{ 
       border-right:1px solid #aaa;
-      min-height:40px;
+      min-height:50px;
     }
     li.game-spacerLeft{ 
         border-left:1px solid #aaa;
-        min-height:40px;
+        min-height:50px;
       }
   
     li.game-bottom{ 
@@ -5385,6 +5386,8 @@ li.game{
         flex-direction:row;
         justify-content: center;
         justify-items: center;
+        padding:20px;
+        line-height:1.7em;
       }
       .round{
         display:flex;
@@ -5396,7 +5399,7 @@ li.game{
       }
         .round .spacer{ flex-grow:1; }
         .round .spacer:first-child,
-        .round .spacer:last-child{ flex-grow:.9; }
+        .round .spacer:last-child{ flex-grow:0.5; }
       
         .round .game-spacer{
           flex-grow:1;
@@ -5412,8 +5415,7 @@ li.game{
     justify-self: center;
     font-family:sans-serif;
   font-size:small;
-  padding:7px;
-  line-height:1em;
+
 
 }
 
