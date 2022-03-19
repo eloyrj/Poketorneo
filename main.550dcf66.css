@@ -5301,46 +5301,52 @@ body .btn-bg.Pokemon .btn-group .ball button a span:nth-child(2)::before {
 }
 
 .contenedorLue {
-    
+
     align-self: center;
     justify-self: center;
 }
 
 .contenedorRedes {
-    
+
     margin-top: 3px;
-    
+
     display: flex;
     flex-wrap: wrap;
 
-    gap: 5px;align-self: center;
+    gap: 5px;
+    align-self: center;
     justify-self: center;
     align-self: center;
     justify-self: center;
 
 }
-.instagram{
+
+.instagram {
     grid-column: 1;
     grid-row: 1;
 }
-.twiter{
+
+.twiter {
     grid-column: 2;
     grid-row: 1;
 }
-.linkdin{
+
+.linkdin {
     grid-column: 3;
     grid-row: 1;
 }
-.twitch{
+
+.twitch {
     grid-column: 4;
     grid-row: 1;
 }
-.yputube{
+
+.yputube {
     grid-column: 5;
     grid-row: 1;
 }
 
-.contImg{
+.contImg {
     width: 90%;
     margin: auto;
     gap: 5px;
@@ -5352,73 +5358,213 @@ body .btn-bg.Pokemon .btn-group .ball button a span:nth-child(2)::before {
 
 }
 
-li.game{
-    padding-left:7px;
+li.game {
+    padding-left: 7px;
     font-size: 1.3vh;
-  }
-  
-    li.game.winner{
-      font-weight:bold;
-      
-    }
-    li.game span{
-      float:left;
-      margin-right:5px;
-    }
-  
-    li.game-top{ border-bottom:1px solid #aaa; }
-  
-    li.game-spacer{ 
-      border-right:1px solid #aaa;
-      min-height:50px;
-    }
-    li.game-spacerLeft{ 
-        border-left:1px solid #aaa;
-        min-height:50px;
-      }
-  
-    li.game-bottom{ 
-      border-top:1px solid #aaa;
-    }
+}
 
-    main{
-        display:flex;
-        flex-direction:row;
-        justify-content: center;
-        justify-items: center;
-        padding:20px;
-        line-height:1.7em;
-      }
-      .round{
-        display:flex;
-        flex-direction:column;
-        justify-content:center;
-        width: 15%;
-        list-style:none;
-        padding:0;
-      }
-        .round .spacer{ flex-grow:1; }
-        .round .spacer:first-child,
-        .round .spacer:last-child{ flex-grow:0.5; }
-      
-        .round .game-spacer{
-          flex-grow:1;
-        }
-        .round .game-spacerLeft{
-            flex-grow:1;
-          }
-      
-.contnedorCuadro{
+li.game.winner {
+    font-weight: bold;
+
+}
+
+li.game span {
+    float: left;
+    margin-right: 5px;
+}
+
+li.game-top {
+    border-bottom: 1px solid #aaa;
+}
+
+li.game-spacer {
+    border-right: 1px solid #aaa;
+    min-height: 50px;
+}
+
+li.game-spacerLeft {
+    border-left: 1px solid #aaa;
+    min-height: 50px;
+}
+
+li.game-bottom {
+    border-top: 1px solid #aaa;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    padding: 20px;
+    line-height: 1.7em;
+}
+
+.round {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 15%;
+    list-style: none;
+    padding: 0;
+}
+
+.round .spacer {
+    flex-grow: 1;
+}
+
+.round .spacer:first-child,
+.round .spacer:last-child {
+    flex-grow: 0.5;
+}
+
+.round .game-spacer {
+    flex-grow: 1;
+}
+
+.round .game-spacerLeft {
+    flex-grow: 1;
+}
+
+
+
+.contnedorCuadro {
     width: 90%;
     margin: auto;
     align-self: center;
     justify-self: center;
-    font-family:sans-serif;
-  font-size:small;
+    font-family: sans-serif;
+    font-size: small;
 
 
 }
 
+.CuadroTorneo {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    width: 90%;
+    margin: auto;
+    align-self: center;
+    justify-self: center;
+    font-family: sans-serif;
+    font-size: small;
+
+}
+
+
+
+.lineaBajaCuadro {
+    
+    border-right: 3px solid #aaa;
+    min-height: 100%;
+}
+.lineaBajaCuadroiz {
+    
+    border-left: 3px solid #aaa;
+    min-height: 100%;
+}
+
+.lineaCierreCuadro {
+    height: 45%;
+    border-bottom: 3px solid #aaa;
+}
+.filaMedia{
+    width: 2fr;
+}
+
+.blanco{
+    height: 100%;
+    width: 100%;
+}
+
+
+.TextoCuadro {
+    text-align: center;
+    border-top: 3px solid #aaa;
+    border-left: 3px solid #aaa;
+    border-right: 3px solid #aaa;
+    border-bottom: 3px solid #aaa;
+}
+
+.cuadroTorneoimagen{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    width: 90%;
+}
+
+.wrapper{
+    display: flex;
+    height: 600px;
+    justify-content: center;
+  }
+  
+  .item{
+    display: flex;
+    flex-direction: row-reverse;
+    p{
+      padding: 20px;
+      margin: 0;
+      background-color: Beige;
+    }
+    
+    &-parent{
+      position: relative;
+      margin-left: $side-margin;
+      display: flex;
+      align-items: center;
+      &:after{
+          position: absolute;
+          content: '';
+          width: $side-margin/2;
+          height: 2px;
+          left: 0;
+          top: 50%;
+          background-color: #fff;
+          transform: translateX(-100%);
+      }
+    }
+    &-childrens{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    &-child{
+      display: flex;
+      align-items: flex-start;
+      justify-content: flex-end;
+      margin-top: $vertical-margin;
+      margin-bottom: $vertical-margin;
+      position: relative;
+      &:before{
+        content: '';
+        position: absolute;
+        background-color: #fff;
+        right: 0;
+        top: 50%;
+        transform: translateX(100%);
+        width: 25px;
+        height: 2px;
+      }
+      &:after{
+        content: '';
+        position: absolute;
+        background-color: #fff;
+        right: -$side-margin / 2;
+        height: calc(50% + 22px) ;
+        width: 2px;
+        top: 50%;
+      }
+      &:last-child{
+        &:after{
+          transform: translateY(-100%);
+        }
+      }
+      &:only-child:after{          
+        display: none;          
+      }
+    }
+  }
 
 
 /*# sourceMappingURL=main.0cf8b554.map*/
