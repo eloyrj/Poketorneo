@@ -29,7 +29,7 @@ def cargarDiccionario(ruta):
 def leerCorreos():
     correos = []
     nombres=[]
-    excel_document = openpyxl.load_workbook("prueba.xlsx")
+    excel_document = openpyxl.load_workbook("TORNEO POKEMON L.U.E. (respuestas).xlsx")
     sheet = excel_document['Respuestas de formulario 1']
     counter = 2
     for i in range(64):

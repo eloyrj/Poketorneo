@@ -67,8 +67,21 @@ def ponerJugadores():
         c.create_text(lbs[i][0],lbs[i][1],text=participantes[i],font='HogfishDEMO')
     
     
+def vaciar():
+    global c
+    global photo
     
+    c.create_text(100, 280, text='tkinter canvas', fill='green')
+    c.create_image(0, 0, image=photo, anchor=NW)
+    global participantes
+    participantes=[]
+    for i in range(20):
+        c.create_text(lbs[i][0],lbs[i][1],text=participantes[i],font='HogfishDEMO')
 
+def guardarImagen():
+    c.postscript(file="cuadro.eps")
+    img = Image.open('cuadro' + '.eps') 
+    img.save('cuadroSalida' + '.png', 'png') 
 
 interfaz = Tk()
 interfaz.title("Sorteo Cuadro")
@@ -88,6 +101,10 @@ c.create_text(100, 280, text='tkinter canvas', fill='green')
 c.create_image(0, 0, image=photo, anchor=NW)
 btn=Button(interfaz, text='Seleccion de Log',command=abrirExcel)
 btn.place(width=162,height=35, x=0,y=0)
+btn=Button(interfaz, text='Vaciar',command=vaciar)
+btn.place(width=162,height=35, x=163,y=0)
+btn=Button(interfaz, text='Guardar cuadro',command=guardarImagen)
+btn.place(width=162,height=35, x=326,y=0)
 
 lbs =[
 (144,258),
@@ -133,6 +150,8 @@ except:
     
 
 interfaz.mainloop()
+
+
 
 with open('data.json', 'w') as file:
     json.dump(participantes,file)
