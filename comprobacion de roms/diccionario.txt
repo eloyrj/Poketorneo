@@ -1,5 +1,5 @@
 Destructor:Pound 
-Golpe Kárate:Karate Chop 
+Golpe Karate:Karate Chop 
 Doble Bofetón:Double Slap 
 Puño Cometa:Comet Punch 
 Megapuño:Mega Punch 
@@ -95,7 +95,7 @@ Psíquico:Psychic
 Hipnosis:Hypnosis 
 Meditación:Meditate 
 Agilidad:Agility 
-Ataque Rápido:Quick Attack 
+At. Rápido:Quick Attack 
 Furia:Rage 
 Teletransporte:Teleport 
 Tinieblas:Night Shade 
@@ -133,7 +133,7 @@ Restricción:Constrict
 Amnesia:Amnesia 
 Kinético:Kinesis 
 Amortiguador:Soft-Boiled 
-Pat. Salto Alta:High Jump Kick 
+Pat. S. Alta:High Jump Kick 
 Deslumbrar:Glare 
 Come Sueños:Dream Eater 
 Gas Venenoso:Poison Gas 
@@ -191,14 +191,14 @@ Pulpocañón:Octazooka
 Púas:Spikes 
 Electrocañón:Zap Cannon 
 Profecía:Foresight 
-Mismo Destino:Destiny Bond 
+Mismodestino:Destiny Bond 
 Canto Mortal:Perish Song 
 Viento Hielo:Icy Wind 
 Detección:Detect 
 Ataque Óseo:Bone Rush 
 Fijar Blanco:Lock-On 
 Enfado:Outrage 
-Tormenta Arena:Sandstorm 
+Torm. Arena:Sandstorm 
 Gigadrenado:Giga Drain 
 Aguante:Endure 
 Encanto:Charm 
@@ -218,9 +218,9 @@ Presente:Present
 Frustración:Frustration 
 Velo Sagrado:Safeguard 
 Divide Dolor:Pain Split 
-Fuego Sagrado:Sacred Fire 
+Fuegosagrado:Sacred Fire 
 Magnitud:Magnitude 
-Puño Dinámico:Dynamic Punch 
+Puñodinámico:Dynamic Punch 
 Megacuerno:Megahorn 
 Dragoaliento:Dragon Breath 
 Relevo:Baton Pass 
@@ -242,7 +242,7 @@ Día Soleado:Sunny Day
 Triturar:Crunch 
 Manto Espejo:Mirror Coat 
 Más Psique:Psych Up 
-Veloc. Extrema:Extreme Speed 
+Vel. Extrema:Extreme Speed 
 Poder Pasado:Ancient Power 
 Bola Sombra:Shadow Ball 
 Premonición:Future Sight 
@@ -331,14 +331,14 @@ Agua Lodosa:Muddy Water
 Recurrente:Bullet Seed 
 Golpe Aéreo:Aerial Ace 
 Carámbano:Icicle Spear 
-Defensa Férrea:Iron Defense 
+Def. Férrea:Iron Defense 
 Bloqueo:Block 
 Aullido:Howl 
 Garra Dragón:Dragon Claw 
 Planta Feroz:Frenzy Plant 
 Corpulencia:Bulk Up 
 Bote:Bounce 
-Disparo Lodo:Mud Shot 
+Disp. Lodo:Mud Shot 
 Cola Veneno:Poison Tail 
 Antojo:Covet 
 Placaje Eléc:Volt Tackle 
@@ -365,7 +365,7 @@ Amago:Feint
 Picoteo:Pluck 
 Viento Afín:Tailwind 
 Acupresión:Acupressure 
-Represión Metal:Metal Burst 
+Repr. Metal:Metal Burst 
 Ida y Vuelta:U-turn 
 A Bocajarro:Close Combat 
 Vendetta:Payback 
@@ -382,7 +382,7 @@ Conjuro:Lucky Chant
 Yo Primero:Me First 
 Copión:Copycat 
 Cambia Fuerza:Power Swap 
-Cambia Defensa:Guard Swap 
+Cambia Def.:Guard Swap 
 Castigo:Punishment 
 Última Baza:Last Resort 
 Abatidoras:Worry Seed 
@@ -420,14 +420,14 @@ Alud:Avalanche
 Canto Helado:Ice Shard 
 Garra Umbría:Shadow Claw 
 Colmillo Rayo:Thunder Fang 
-Colmillo Hielo:Ice Fang 
-Colmillo Ígneo:Fire Fang 
+Colm. Hielo:Ice Fang 
+Colm. Ígneo:Fire Fang 
 Sombra Vil:Shadow Sneak 
 Bomba Fango:Mud Bomb 
-Psicocorte:Psycho Cut 
+Psico-corte:Psycho Cut 
 Cabezazo Zen:Zen Headbutt 
-Disparo Espejo:Mirror Shot 
-Foco Resplandor:Flash Cannon 
+Disp. Espejo:Mirror Shot 
+Foco Respl.:Flash Cannon 
 Treparrocas:Rock Climb 
 Despejar:Defog 
 Espacio Raro:Trick Room 
@@ -439,7 +439,7 @@ Latigazo:Power Whip
 Romperrocas:Rock Wrecker 
 Veneno X:Cross Poison 
 Lanza Mugre:Gunk Shot 
-Cabeza de Hierro:Iron Head 
+Cabezahierro:Iron Head 
 Bomba Imán:Magnet Bomb 
 Roca Afilada:Stone Edge 
 Seducción:Captivate 
@@ -463,7 +463,7 @@ Agarrón:Crush Grip
 Lluvia Ígnea:Magma Storm 
 Brecha Negra:Dark Void 
 Fogonazo:Seed Flare 
-Viento Aciago:Ominous Wind 
+Vien. Aciago:Ominous Wind 
 Golpe Umbrío:Shadow Force 
 Afilagarras:Hone Claws 
 Vastaguardia:Wide Guard 
